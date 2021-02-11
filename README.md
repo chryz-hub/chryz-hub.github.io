@@ -27,5 +27,6 @@ The available multiple tech branches e.g the Vue.js branch, are for some display
 
 ## Find us on
 
-- [Discord](https://discord.gg/33GppJfffz)
-- [Twitter](https://twitter.com/chryz_codez)
+## Find us on
+<a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
+<a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
