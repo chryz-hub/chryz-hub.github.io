@@ -25,7 +25,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Note
 The available multiple tech branches e.g the Vue.js branch, are for some display purposes and to compare.
 
-## Find us on
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
