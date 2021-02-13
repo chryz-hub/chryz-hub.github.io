@@ -17,7 +17,7 @@
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes
 
-### But wait have met the team & contributors
+### But wait have we met the team & contributors
 * [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
 * [chryz-hub contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/CONTRIBUTORS.md)
 
