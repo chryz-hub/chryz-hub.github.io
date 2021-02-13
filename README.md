@@ -1,25 +1,25 @@
 # chryz-hub.github.io
-Information of our community
-
 
 ## What is our community about
 - We believe open source is for everyone.
 - Helping and adding value to the society.
 - Promoting open source
 - Our community is inclusive and a safe space for all.
-- Please welcome new people.
 - The best way to learn is to help someone else.
+- Making the journey easier for us all
+- Please welcome new people.
 - [Code Of Conduct](https://github.com/chryz-hub/py-newbies-project/blob/main/CODE_OF_CONDUCT.md)
 
-## Actions
-
-- [Alex](https://github.com/get-alex/alex)
 
 ## Table of Projects
 - Projects name [repository list](https://github.com/chryz-hub)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md).
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes
+
+### But wait have met the team & contributors
+* [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
+* [chryz-hub contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/CONTRIBUTORS.md)
 
 
 ## Find us on
