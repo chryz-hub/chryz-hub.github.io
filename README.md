@@ -7,6 +7,7 @@
 - Our community is inclusive and a safe space for all.
 - The best way to learn is to help someone else.
 - Making the journey easier for us all
+- we do appreciate your ideas and contribution
 - Please welcome new people.
 - [Code Of Conduct](https://github.com/chryz-hub/py-newbies-project/blob/main/CODE_OF_CONDUCT.md)
 
@@ -20,6 +21,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### But wait have we met the team & contributors
 * [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
 * [chryz-hub contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/CONTRIBUTORS.md)
+
+**Note_ To be a contributor/ member; Raise an [invitation issue](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)!**
 
 
 ## Find us on
