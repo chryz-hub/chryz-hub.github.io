@@ -29,7 +29,7 @@ docs: add API documentation to the bot
 test(server): add cache tests to the movie resource
 fix(web): add validation to phone input field
 fix(web): remove avatar image from being required in form
-fix(release): need to depend on latest rxjs and zone.js
+fix(release): need to depend on latest rxjs and zone.js**
 ```
 
 ### Type
@@ -45,3 +45,5 @@ Must be one of the following:
 - **refactor**: A code change that neither fixes a bug nor adds a feature
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
+
+**or better still a precise and a short description really passing the real message of the issues or pull request!**
