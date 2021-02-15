@@ -1,6 +1,6 @@
 ---
 name: Ideas
-about: Bringing up ideas for the smooth running of this repository
+about: Bringing up ideas for the smooth running of the community
 title: ''
 labels: ''
 assignees: ''
