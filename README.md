@@ -16,7 +16,8 @@
 - Projects name [repository list](https://github.com/chryz-hub)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes
+Pull requests are welcome. For major changes, please open an [issue](https://github.com/chryzcodez/chryz-hub.github.io/issues) first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes and
+in order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!__
 
 ### But wait have we met the team & contributors
 * [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
