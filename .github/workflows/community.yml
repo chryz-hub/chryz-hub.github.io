@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: ./src/welcome
+      - uses: chryz-hub/chryz-hub.github.io/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '<h1>It''s great having you contribute to this project/ repository</h1> <p>Welcome to the community :nerd_face: Is there anything you are yet to understand, please do well to ask</p>'
