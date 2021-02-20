@@ -1,7 +1,7 @@
 on:
   fork:
   push:
-    branches: [ master ]
+    branches: [ develop ]
   issues:
     types: [ opened ]
   issue_comment:
@@ -17,9 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: chryz-hub/chryz-hub.github.io/src/welcome@main
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project/ repository</h1> <p>Welcome to the community :nerd_face: Is there anything you are yet to understand, please do well to ask</p>'
-          pr-message: '<h1>It''s great having you contribute to this project/ repository</h1> <p>Welcome to the community :nerd_face: Is there anything you are yet to understand, please do well to ask</p>'
-          footer: 'Join our Discord and GitHub Organisation'
+          issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong>! Welcome to the community :nerd_face:'
+          pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for creating a <strong>Pull Request</strong>! Welcome to the community :nerd_face:'
