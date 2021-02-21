@@ -1,4 +1,6 @@
-# chryz-hub.github.io
+# chryz-hub
+Welcome To The World of Open Source. We Value and Appreciate 
+Your Ideas and Contributions
 
 ## What is our community about
 - We believe open source is for everyone.
@@ -17,14 +19,14 @@
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an [issue](https://github.com/chryzcodez/chryz-hub.github.io/issues) first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes and
-in order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!__
+in order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!
 
 ### But wait have we met the team & contributors
 * [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
 * [chryz-hub contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/CONTRIBUTORS.md)
 
 **Note_**
-* To be a member; Raise an [invitation issue here!](https://github.com/chryzhub/chryzhub.github.io/issues/newassignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
+* To be a member; Raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
 * To be a contributor; Make a [pull request here!](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)
 
