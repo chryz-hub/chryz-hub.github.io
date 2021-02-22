@@ -1,0 +1,17 @@
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.2
+        with:
+          organization: chryz-hub
+          label: invite me to the organisation
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: '<h2>Invitation sent for the GitHub community membership. Welcome to the community 🎉</h2> <strong>Do well to join our <a href="https://discord.gg/c6RhGwcP5b">discord channel</a> and make this <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md">pull request</a> to share what you do make out connections.</strong><br>Customise your GitHub profile, here is a tutorial-blog on it [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)<br> Do not forget contributing to open source is not only on codes, its about bringing up ideas, collaborating, communicating adding values and rendering help and support<br> we hope this helps in starting the journey that lies ahead'  
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
