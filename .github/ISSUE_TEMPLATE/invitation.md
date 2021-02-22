@@ -7,6 +7,7 @@ labels: invite me to the organisation
 
 <!---
 Invitation will be sent for the GitHub Organization soon. We look forward to having you part of our community :nerd_face:
+Contributing to open source is not only on codes, its about bringing up ideas, collaborating, communicating, and adding values and rendering help and support
 -->
 
 Please invite me to the GitHub Community Organisation.
