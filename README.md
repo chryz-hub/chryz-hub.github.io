@@ -2,7 +2,7 @@
 Welcome To The World of Open Source. We Value and Appreciate 
 Your Ideas and Contributions
 
-## What is our community about
+t
 - We believe open source is for everyone.
 - Helping and adding value to the society.
 - Promoting open source
