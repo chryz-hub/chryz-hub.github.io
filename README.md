@@ -1,6 +1,5 @@
 # chryz-hub
-Welcome To The World of Open Source. We Value and Appreciate 
-Your Ideas and Contributions
+Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
 ## What is our community about
 - We believe open source is for everyone.
