@@ -1,10 +1,10 @@
 name: Review Assign
 
 on:
-  issues : 
+  issues:
     types: [opened]
   pull_request:
-    types: [opened, ready_for_review, reopened]
+    types: [opened, ready_for_review, reoponed]
 
 jobs:
   assign:
@@ -12,5 +12,6 @@ jobs:
     steps:
       - uses: hkusu/review-assign-action@v1
         with:
-          reviewers: chryzcodez, Ukpebor
+          assignees: ${{ github.actor }} 
+          reviewers: chryzcodez, Ukpebor 
           max-num-of-reviewers: 1
