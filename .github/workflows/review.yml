@@ -1,6 +1,7 @@
 name: Review Assign
 
 on:
+  pull_request_target:
   issues : 
     types: [opened]
   pull_request:
