@@ -1,12 +1,10 @@
-name: pull-request
-on:
-  pull_request:
-    types: [opened, reopened]
+name: 'Auto Assign'
+on: pull_request
+
 jobs:
-  assign:
+  add-reviews:
     runs-on: ubuntu-latest
     steps:
-      - uses: delivery-much/actions-assigner@v1
+      - uses: kentaro-m/auto-assign-action@v1.1.2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          reviewers: chryzcodez
+          configuration-path: ".github/configs.yml"
