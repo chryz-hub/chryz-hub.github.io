@@ -12,6 +12,5 @@ jobs:
     steps:
       - uses: hkusu/review-assign-action@v1
         with:
-          assignees: chryzcodez, Ukpebor
           reviewers: chryzcodez, Ukpebor
           max-num-of-reviewers: 1
