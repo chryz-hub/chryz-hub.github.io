@@ -11,5 +11,5 @@ jobs:
       - uses: hkusu/review-assign-action@v1
         with:
           skip assign: ${{ github.actor }} 
-          reviewers: chryzcodez, Ukpebor
+          reviewers: Ukpebor, chryzcodez
           max-num-of-reviewers: 1
