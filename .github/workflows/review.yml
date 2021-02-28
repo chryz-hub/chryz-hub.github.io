@@ -12,4 +12,4 @@ jobs:
         with:
           skip assign: ${{ github.actor }} 
           reviewers: chryzcodez, Ukpebor
-          max-num-of-reviewers: 2
+
