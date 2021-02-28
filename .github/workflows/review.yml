@@ -10,6 +10,9 @@ jobs:
     steps:
       - uses: hkusu/review-assign-action@v1
         with:
-          skip assign: ${{ github.actor }} 
-          reviewers: chryzcodez, Ukpebor
-
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: skip assign
+          reviewers: Ukpebor, chryzcodez
+          max-num-of-reviewers: 1
+          ready-comment: 'Ready for review :rocket:' 
+          merged-comment: 'It was merged. Thanks for your review :wink:' 
