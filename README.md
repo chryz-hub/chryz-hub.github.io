@@ -20,9 +20,6 @@ Welcome To The World of Open Source, where your ideas and contributions count an
 Pull requests are welcome. For major changes, please open an [issue](https://github.com/chryzcodez/chryz-hub.github.io/issues) first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes and
 in order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!
 
-### Have we met the team 
-* [Team chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)
-
 **Note_**
 * To be a member, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
