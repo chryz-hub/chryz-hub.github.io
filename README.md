@@ -26,6 +26,23 @@ in order for us not to ignore your effort, please check well not to make a dupli
 * To make your first pull request or make out connections, make [this pull request!](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)
 
 
+## Meet the Team
+<!-- CHRYZ-HUB-TEAM-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/chryzcodez"><img src="https://avatars.githubusercontent.com/u/77321169?s=460&u=8d89312a1109aac0294da55965e5d8cd39032d11&v=4" width="100px;" alt=""/><br /><sub><b>Alaba Olanrewaju</b></sub></a><br /><a href="https://github.com/chryz-hub/chryz-hub.github.io/commits?author=chryzcodez" title="Documentation">📖</a></a> <a href="#eventOrganizing-chryzcodez" title="Event Organizing">📋</a> <a href="#ideas-chryzcodez" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-chryzcodez" title="Project Management">📆</a> <a href="https://github.com/pulls?q=is%3Apr+review-requested%3Achryzcodez+archived%3Afalse+is%3Aclosed" title="Reviewed Pull Requests">👀</a> <a href="#talk-chryzcodez" title="Talks">📢</a></td>
+   </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
+  
+  
+
