@@ -41,9 +41,9 @@ in order for us not to ignore your effort, please check well not to make a dupli
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Meet our Contributors!
+## Meet our Contributors/Members!
 If you have contributed in a way or the other do well to add your name.
-- 👯[The Chryz-Hub Contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md)
+- 👯[The Chryz-Hub Contributors/Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md)
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
