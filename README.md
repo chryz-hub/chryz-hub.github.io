@@ -42,7 +42,7 @@ in order for us not to ignore your effort, please check well not to make a dupli
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Meet our Contributors!
-If you have contributed in ine way or the other do well to add your name.
+If you have contributed in a way or the other do well to add your name.
 - 👯[The Chryz-Hub Contributors](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md)
 
 ## Find us on
