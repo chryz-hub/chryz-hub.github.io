@@ -11,13 +11,15 @@ Please invite me to the GitHub Community Organisation.
 <!-- Enter your name-->
 
 - #### Discord Username(if exists):<!-- Put down you discord username, if you have-->
-<!--https://discord.gg/c6RhGwcP5b (link to our discord server)-->
+<!--https://discord.gg/c6RhGwcP5b (link to chryz-hub discord server, do well to join)-->
 
 
-- #### Additional Context:
-<!--Where did you meet chryz?-->
+- #### Additional Context: <!--Where did you meet chryz?-->
 
 
 <!--What do you like about this community/ why do you want to join-->
 
+
+<!-- After raising this issue, wait a bit to get two different messages from the community bot.
+These messages would be a guide and also give you some neccesary instructions-->
 
