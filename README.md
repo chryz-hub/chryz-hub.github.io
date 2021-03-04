@@ -1,17 +1,8 @@
 # chryz-hub
 Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
-## What is our community about
-- We believe open source is for everyone.
-- Helping and adding value to the society.
-- Promoting open source
-- Our community is inclusive and a safe space for all.
-- The best way to learn is to help someone else.
-- Making the journey easier for us all
-- we do appreciate your ideas and contribution
-- Please welcome new people.
-- [Code Of Conduct](https://github.com/chryz-hub/py-newbies-project/blob/main/CODE_OF_CONDUCT.md)
-
+<a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"><img width=20% src="https://thumbs.dreamstime.com/b/basic-rgb-148951998.jpg"></a>
+<h3><a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md">Our Vision</a></h3>
 
 ## Table of Projects
 - Projects name [repository list](https://github.com/chryz-hub)
