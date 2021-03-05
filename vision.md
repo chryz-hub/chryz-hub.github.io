@@ -4,13 +4,6 @@
 <h3>Our vision is to add value, solve problems, render help and support to developers, open source contributors and everyone at large and also raise and build Open Source Giants.</h3>
 <h4>This is a community where your ideas really count and your contributions are greatly appreciated!</h4>
 
-## How do we aim to get this done?
-<b> Briefly, let's share what the community is all about and the process of aiming at 
-our destination.</b>
-- We tend to share knowledge, how?
-  - Making tutorials and gathering necessary resources 
-     - Codes
-     - Books
      - Docs
      - Helpful and accurate Websites and many more.
      
