@@ -5,7 +5,7 @@
 
 - To add your name
 
-  ```- [Full Name](https://github.com/your-username)```
+  ```- [Damilare Oyedeji](https://github.com/fuglydami)```
   
   On a new line in an alphabetical order, add your name and the link to your Github profile
  _________________________________________________________________________________________
