@@ -19,5 +19,6 @@
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
- 
+ - [Franklin Ohaegbulam](https://github.com/frankiefab100)
+
   <!-- end -->
