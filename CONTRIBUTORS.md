@@ -12,6 +12,7 @@
   
   <!-- Starting -->
  - [Alaba Olanrewaju](https://github.com/chryzcodez)
+ - [Amjad Noor](https://github.com/AmjadNoor)
  - [Jome Favourite](https://github.com/jomefavourite)
  - [Mercy Harbo](https://github.com/mercyharbo)
  - [Naman Gupta](https://github.com/namangupta1399)
