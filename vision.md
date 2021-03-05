@@ -32,7 +32,7 @@ our destination.</b>
      - [Make your first pull request / make connections](https://github.com/chryz-hub/opensource-4-everyone/issues/2)
    - We apprecite you been a member. Basically do this by raising an [invitational issue](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
          
-### Check out our:
+### Check our:
 - [CODE OF CONDUCT](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CODE_OF_CONDUCT.md)
 - [CONTRIBUTING.MD](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTING.md)
 
