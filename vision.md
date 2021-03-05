@@ -28,8 +28,8 @@ our destination.</b>
    - Made a repository on open-source with resources
    - All our project are public which promotes contributing
    - Raise issue and adding tags with out closure for new open-source contributors
-     - Adding Open Source Resources(https://github.com/chryz-hub/opensource-4-everyone/issues/53)
-     - [Make your First PR or Make Out Connections](https://github.com/chryz-hub/opensource-4-everyone/issues/52)
+     - [Add Open-Source Resources](https://github.com/chryz-hub/opensource-4-everyone/issues/1)
+     - [Make your first pull request / make connections](https://github.com/chryz-hub/opensource-4-everyone/issues/2)
    - We apprecite you been a member. Basically do this by raising an [invitational issue](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
          
 ### Check out our:
