@@ -18,6 +18,11 @@ our destination.</b>
      - The more you do a thing, the more you get better at it.
      - Teaching, helping people tends to make you learn and unlock potentials in you
   
+  - Making use of the [community youtube channel](https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ) to share contents on:
+    - Open-Source
+    - Python
+    - and other segments on been a developer.
+  
  - We tend to solve problems, how?
    - Working on the common need of the community members/contributors and people generally after certain considerations by the team
    - Created a [discord channel](https://discord.gg/c6RhGwcP5b), where questions can be asked and answered
@@ -26,6 +31,9 @@ our destination.</b>
    - We provided a special space for [making out connections](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)
  - We tend to promote [open-source](https://github.com/chryz-hub/opensource-4-everyone)
    - Made a repository on open-source with resources
+   - Making use of our [twitter handle](https://twitter.com/ChryzHub) to:
+     - Share out issues for people to contribute to, first-timers especially
+     - Share out resources on open-source
    - All our project are public which promotes contributing
    - Raise issue and adding tags with out closure for new open-source contributors
      - [Add Open-Source Resources](https://github.com/chryz-hub/opensource-4-everyone/issues/1)
@@ -38,3 +46,6 @@ our destination.</b>
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
+<a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
+![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub)
+  
