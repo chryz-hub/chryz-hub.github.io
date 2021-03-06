@@ -16,6 +16,7 @@
  - [Damilare Oyedeji](https://github.com/fuglydami)
  - [Jome Favourite](https://github.com/jomefavourite)
  - [Mercy Harbo](https://github.com/mercyharbo)
+ - [Mohammed Kabir Hussaini](https://github.com/lekandev)
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
