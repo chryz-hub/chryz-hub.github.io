@@ -41,8 +41,6 @@ our destination.</b>
    - Making use of our [twitter handle](https://twitter.com/ChryzHub) to:
      - Share out issues for people to contribute to, first-timers especially
      - Share out resources on open-source
-        - Tips
-        - Short clips
      - Give updates about the community
      - Publicize the community
    - All our project are public which promotes contributing
