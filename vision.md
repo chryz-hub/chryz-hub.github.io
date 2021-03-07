@@ -21,19 +21,30 @@ our destination.</b>
   - Making use of the [community youtube channel](https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ) to share contents on:
     - Open-Source
     - Python
+    - Programming/coding tips
+    - Necessary soft skills
     - and other segments on been a developer.
   
  - We tend to solve problems, how?
    - Working on the common need of the community members/contributors and people generally after certain considerations by the team
-   - Created a [discord channel](https://discord.gg/c6RhGwcP5b), where questions can be asked and answered
+     - Created a [discord channel](https://discord.gg/c6RhGwcP5b):
+         - Where questions can be asked and answered
+         - Where advice and guardiance can be easily gotten
+         - Where resources also can be gotten, either backend, frontend, git and many more
+         - Where issues can be gotten, especially for first timers in open-source
  - We tend to connect developers irrespective of your Nationality, how?
    - The [community discord server](https://discord.gg/c6RhGwcP5b) has a great role to play in this
    - We provided a special space for [making out connections](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)
  - We tend to promote [open-source](https://github.com/chryz-hub/opensource-4-everyone)
    - Made a repository on open-source with resources
+   - Using our discord server to get ideas from people, members/contributors especially
    - Making use of our [twitter handle](https://twitter.com/ChryzHub) to:
      - Share out issues for people to contribute to, first-timers especially
      - Share out resources on open-source
+        - Tips
+        - Short clips
+     - Give updates about the community
+     - Publicize the community
    - All our project are public which promotes contributing
    - Raise issue and adding tags with out closure for new open-source contributors
      - [Add Open-Source Resources](https://github.com/chryz-hub/opensource-4-everyone/issues/1)
