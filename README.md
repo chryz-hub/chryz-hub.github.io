@@ -10,12 +10,12 @@
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an [issue](https://github.com/chryzcodez/chryz-hub.github.io/issues) first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes and
-in order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!
+in order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request(contribution)/ issue!
 
 **Note_**
 * To be a member, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
-* To make your first pull request or make out connections, make [this pull request!](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)
+* To make your first pull request or make out connections, make [this pull request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
 
 
 ## Meet the Team
@@ -40,7 +40,7 @@ If you have contributed in a way or the other do well to add your name.
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
-![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub)
+[![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub)](https://twitter.com/ChryzHub)
   
   
 
