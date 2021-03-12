@@ -22,6 +22,6 @@
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
-
+ - [Ibrahim ayodeji] (https://github.com/hackEibrahim)
 
   <!-- end -->
