@@ -38,11 +38,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AmjadNoor/chryz-hub.github.io/pull/3) in [AmjadNoor/chryz-hub.github.io](https://github.com/AmjadNoor/chryz-hub.github.io)
-2. 💪 Opened PR [#3](https://github.com/AmjadNoor/chryz-hub.github.io/pull/3) in [AmjadNoor/chryz-hub.github.io](https://github.com/AmjadNoor/chryz-hub.github.io)
-3. 💪 Opened PR [#26](https://github.com/chryz-hub/opensource-4-everyone/pull/26) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 🎉 Merged PR [#8](https://github.com/AmjadNoor/opensource-4-everyone/pull/8) in [AmjadNoor/opensource-4-everyone](https://github.com/AmjadNoor/opensource-4-everyone)
-5. 🎉 Merged PR [#10](https://github.com/AmjadNoor/opensource-4-everyone/pull/10) in [AmjadNoor/opensource-4-everyone](https://github.com/AmjadNoor/opensource-4-everyone)
+1. 💪 Opened PR [#95](https://github.com/chryz-hub/chryz-hub.github.io/pull/95) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#3](https://github.com/AmjadNoor/chryz-hub.github.io/pull/3) in [AmjadNoor/chryz-hub.github.io](https://github.com/AmjadNoor/chryz-hub.github.io)
+3. 💪 Opened PR [#3](https://github.com/AmjadNoor/chryz-hub.github.io/pull/3) in [AmjadNoor/chryz-hub.github.io](https://github.com/AmjadNoor/chryz-hub.github.io)
+4. 💪 Opened PR [#26](https://github.com/chryz-hub/opensource-4-everyone/pull/26) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🎉 Merged PR [#8](https://github.com/AmjadNoor/opensource-4-everyone/pull/8) in [AmjadNoor/opensource-4-everyone](https://github.com/AmjadNoor/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 
