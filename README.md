@@ -36,7 +36,7 @@ in order for us not to ignore your effort, please check well not to make a dupli
 ## Meet our Members!
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
-## My Recent Activities
+## The Community Recent Activities
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
