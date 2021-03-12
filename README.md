@@ -36,6 +36,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 ## Meet our Members!
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
+## My Recent Activities
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
