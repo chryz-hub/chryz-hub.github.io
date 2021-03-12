@@ -40,7 +40,6 @@ in order for us not to ignore your effort, please check well not to make a dupli
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#95](https://github.com/chryz-hub/chryz-hub.github.io/pull/95) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 
-<!--END_SECTION:activity-->
 
 
 ## Find us on
