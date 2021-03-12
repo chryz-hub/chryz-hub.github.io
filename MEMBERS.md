@@ -1,7 +1,7 @@
 # Our Contributors
 
 <!-- Eligibility -->
-<!-- Either been a member of the community, made a PR that has been merged, raised an issue or contributed in a way or the other! -->
+<!-- Been a member of the community -->
 
 - To add your name
 
