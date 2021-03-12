@@ -39,7 +39,6 @@ in order for us not to ignore your effort, please check well not to make a dupli
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
