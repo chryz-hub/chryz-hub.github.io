@@ -18,7 +18,7 @@ our destination.</b>
      - The more you do a thing, the more you get better at it.
      - Teaching, helping people tends to make you learn and unlock potentials in you
   
-  - Making use of the [community youtube channel](https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ) to share contents on:
+  - Making use of the [community youtube channel](https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q) to share contents on:
     - Open-Source
     - Python
     - Programming/coding tips
