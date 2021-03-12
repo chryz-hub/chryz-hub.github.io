@@ -1,9 +1,9 @@
 ---
 name: Ideas
 about: Bringing up ideas for the smooth running of the community
-title: ''
-labels: ''
-assignees: ''
+title: 'I have an idea'
+labels: 'ideas'
+assignees: 'chryzcodez'
 
 ---
 
