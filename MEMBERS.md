@@ -16,6 +16,7 @@
  - [Anshul Mehta](https://github.com/Anshul7sp1)
  - [Damilare Oyedeji](https://github.com/fuglydami)
  - [Franklin Ohaegbulam](https://github.com/frankiefab100)
+ - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
  - [Jome Favourite](https://github.com/jomefavourite)
  - [Mercy Harbo](https://github.com/mercyharbo)
  - [Mohammed Kabir Hussaini](https://github.com/lekandev)
