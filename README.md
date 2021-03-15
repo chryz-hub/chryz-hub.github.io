@@ -38,11 +38,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/chryz-hub/opensource-4-everyone/issues/24) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-2. 🗣 Commented on [#24](https://github.com/chryz-hub/opensource-4-everyone/issues/24) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-3. 🗣 Commented on [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🗣 Commented on [#24](https://github.com/chryz-hub/opensource-4-everyone/issues/24) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. 🗣 Commented on [#93](https://github.com/chryz-hub/chryz-hub.github.io/issues/93) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. ❗️ Closed issue [#93](https://github.com/chryz-hub/chryz-hub.github.io/issues/93) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🗣 Commented on [#90](https://github.com/chryz-hub/chryz-hub.github.io/issues/90) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Closed issue [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#24](https://github.com/chryz-hub/opensource-4-everyone/issues/24) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 1. 🎉 Merged PR [#95](https://github.com/chryz-hub/chryz-hub.github.io/pull/95) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 
