@@ -44,7 +44,7 @@ in order for us not to ignore your effort, please check well not to make a dupli
 4. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 5. 💪 Opened PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/chryz-hub/chryz-hub.github.io/pull/95) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+
 
 
 
