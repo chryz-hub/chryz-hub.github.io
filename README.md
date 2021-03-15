@@ -38,11 +38,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 💪 Opened PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-4. ❗️ Closed issue [#93](https://github.com/chryz-hub/chryz-hub.github.io/issues/93) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🗣 Commented on [#90](https://github.com/chryz-hub/chryz-hub.github.io/issues/90) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#12](https://github.com/chryz-hub/py-projects/pull/12) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+2. 💪 Opened PR [#12](https://github.com/chryz-hub/py-projects/pull/12) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+3. 🗣 Commented on [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+5. 💪 Opened PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
 <!--END_SECTION:activity-->
 1. 🎉 Merged PR [#95](https://github.com/chryz-hub/chryz-hub.github.io/pull/95) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 
