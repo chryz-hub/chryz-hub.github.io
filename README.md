@@ -1,6 +1,6 @@
 ![](https://avatars.githubusercontent.com/u/78741698?s=200&v=4)
 # chryz-hub
-## Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
+### Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
 <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"><img width=20% src="https://thumbs.dreamstime.com/b/basic-rgb-148951998.jpg"></a>
 <h3><a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md">Our Vision</a></h3>
@@ -38,11 +38,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/chryz-hub/py-projects/pull/12) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-2. 💪 Opened PR [#12](https://github.com/chryz-hub/py-projects/pull/12) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-3. 🗣 Commented on [#97](https://github.com/chryz-hub/chryz-hub.github.io/issues/97) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 🎉 Merged PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
-5. 💪 Opened PR [#11](https://github.com/chryz-hub/py-projects/pull/11) in [chryz-hub/py-projects](https://github.com/chryz-hub/py-projects)
+1. 🗣 Commented on [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. ❗️ Opened issue [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🗣 Commented on [#102](https://github.com/chryz-hub/chryz-hub.github.io/issues/102) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. ❗️ Closed issue [#102](https://github.com/chryz-hub/chryz-hub.github.io/issues/102) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#102](https://github.com/chryz-hub/chryz-hub.github.io/issues/102) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 
