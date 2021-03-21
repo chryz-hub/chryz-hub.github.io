@@ -2,7 +2,7 @@
 # chryz-hub
 ### Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
-<a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"><img width=20% src="https://thumbs.dreamstime.com/b/basic-rgb-148951998.jpg"></a>
+<a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"><img width="20%" src="https://thumbs.dreamstime.com/b/basic-rgb-148951998.jpg"></a>
 <h3><a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md">Our Vision</a></h3>
 
 ## Table of Projects
