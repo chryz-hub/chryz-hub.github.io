@@ -24,11 +24,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#794](https://github.com/bradtraversy/design-resources-for-developers/issues/794) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-3. 🗣 Commented on [#40](https://github.com/chryz-hub/opensource-4-everyone/issues/40) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-4. 💪 Opened PR [#40](https://github.com/chryz-hub/opensource-4-everyone/pull/40) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
-5. ❗️ Opened issue [#794](https://github.com/bradtraversy/design-resources-for-developers/issues/794) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+1. 🎉 Merged PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 💪 Opened PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🗣 Commented on [#794](https://github.com/bradtraversy/design-resources-for-developers/issues/794) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+4. 🗣 Commented on [#40](https://github.com/chryz-hub/opensource-4-everyone/issues/40) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 💪 Opened PR [#40](https://github.com/chryz-hub/opensource-4-everyone/pull/40) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
 <!--END_SECTION:activity-->
 
 ## Meet the Team
