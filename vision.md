@@ -13,7 +13,10 @@ our destination.</b>
      - Books
      - Docs
      - Helpful and accurate Websites and many more.
-     
+  - Using our blogging accounts to share contents on programming and open-source
+    - [Hashnode](https://hashnode.com/@chryzhub)
+    - [DevCommunity](https://dev.to/chryzhub)
+    
   - Making projects that would enable developers to learn, how?
      - The more you do a thing, the more you get better at it.
      - Teaching, helping people tends to make you learn and unlock potentials in you
