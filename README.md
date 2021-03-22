@@ -18,6 +18,19 @@ in order for us not to ignore your effort, please check well not to make a dupli
 * To make your first pull request or make out connections, make [this pull request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
 
 
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+
+
+## The Community Recent Activities
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#105](https://github.com/chryz-hub/chryz-hub.github.io/pull/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. 🗣 Commented on [#105](https://github.com/chryz-hub/chryz-hub.github.io/issues/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 💪 Opened PR [#105](https://github.com/chryz-hub/chryz-hub.github.io/pull/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+<!--END_SECTION:activity-->
+
 ## Meet the Team
 <!-- CHRYZ-HUB-TEAM-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -35,17 +48,6 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## Meet our Members!
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
-
-## The Community Recent Activities
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🎉 Merged PR [#105](https://github.com/chryz-hub/chryz-hub.github.io/pull/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🗣 Commented on [#105](https://github.com/chryz-hub/chryz-hub.github.io/issues/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#105](https://github.com/chryz-hub/chryz-hub.github.io/pull/105) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🗣 Commented on [#104](https://github.com/chryz-hub/chryz-hub.github.io/issues/104) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-<!--END_SECTION:activity-->
-
-
 
 
 ## Find us on
