@@ -14,6 +14,7 @@
  - [Alaba Olanrewaju](https://github.com/chryzcodez)
  - [Amjad Noor](https://github.com/AmjadNoor)
  - [Anshul Mehta](https://github.com/Anshul7sp1)
+ - [Eke Victor](https://github.com/Evavic44)
  - [Damilare Oyedeji](https://github.com/fuglydami)
  - [Franklin Ohaegbulam](https://github.com/frankiefab100)
  - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
