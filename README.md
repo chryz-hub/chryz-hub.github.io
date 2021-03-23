@@ -28,7 +28,7 @@ in order for us not to ignore your effort, please check well not to make a dupli
 2. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 3. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 4. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🎉 Merged PR [#108](https://github.com/chryz-hub/chryz-hub.github.io/pull/108) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## Meet the Team
