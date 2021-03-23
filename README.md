@@ -25,10 +25,10 @@ in order for us not to ignore your effort, please check well not to make a dupli
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. ❗️ Opened issue [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 🎉 Merged PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 🗣 Commented on [#794](https://github.com/bradtraversy/design-resources-for-developers/issues/794) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+2. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+3. ❗️ Opened issue [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🎉 Merged PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 💪 Opened PR [#106](https://github.com/chryz-hub/chryz-hub.github.io/pull/106) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## Meet the Team
