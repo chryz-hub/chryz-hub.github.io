@@ -25,10 +25,10 @@ in order for us not to ignore your effort, please check well not to make a dupli
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🗣 Commented on [#107](https://github.com/chryz-hub/chryz-hub.github.io/issues/107) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 3. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. 💪 Opened PR [#110](https://github.com/chryz-hub/chryz-hub.github.io/pull/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. ❌ Closed PR [#109](https://github.com/chryz-hub/chryz-hub.github.io/pull/109) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+4. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+5. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## Meet the Team
