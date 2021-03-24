@@ -24,11 +24,11 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 ## The Community Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-2. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-3. 💪 Opened PR [#110](https://github.com/chryz-hub/chryz-hub.github.io/pull/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-4. ❌ Closed PR [#109](https://github.com/chryz-hub/chryz-hub.github.io/pull/109) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
-5. 💪 Opened PR [#109](https://github.com/chryz-hub/chryz-hub.github.io/pull/109) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+1. 🎉 Merged PR [#110](https://github.com/chryz-hub/chryz-hub.github.io/pull/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
+2. 🎉 Merged PR [#41](https://github.com/chryz-hub/opensource-4-everyone/pull/41) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+3. 🗣 Commented on [#41](https://github.com/chryz-hub/opensource-4-everyone/issues/41) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+4. 💪 Opened PR [#41](https://github.com/chryz-hub/opensource-4-everyone/pull/41) in [chryz-hub/opensource-4-everyone](https://github.com/chryz-hub/opensource-4-everyone)
+5. 🗣 Commented on [#110](https://github.com/chryz-hub/chryz-hub.github.io/issues/110) in [chryz-hub/chryz-hub.github.io](https://github.com/chryz-hub/chryz-hub.github.io)
 <!--END_SECTION:activity-->
 
 ## Meet the Team
