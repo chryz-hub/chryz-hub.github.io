@@ -22,11 +22,6 @@ in order for us not to ignore your effort, please check well not to make a dupli
 <!-- HASHNODE_BLOG:START -->
 
 
-## The Community Recent Activities
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ## Meet the Team
 <!-- CHRYZ-HUB-TEAM-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
