@@ -67,6 +67,15 @@ h6 {
   font-family: 'Lato', sans-serif;
 }
 
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
 img {
   max-width: 100%;
   display: block;
