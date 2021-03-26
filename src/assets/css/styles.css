@@ -15,14 +15,14 @@
 /* Logo */
 .navbar .logo {
     order: 2;
-    border: 1px solid #fff;
+    border: 1px solid rgba(255, 255, 255, 0.6);
     border-radius: 50%;
     margin-right: 20px;
     transition: border 0.5s ease-in-out;
 }
 
 .navbar .logo:hover {
-    border: 1px solid var(--primaryBtn);
+    border: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar .logo img {
@@ -40,15 +40,14 @@ nav ul {
 }
 
 nav ul li a {
-    padding: 15px;
+    padding: 15px 10px;
     margin: 38px;
     color: #fff;
-    opacity: 0.7;
-    transition: background-color 0.45s ease-in-out;
+    opacity: 0.6;
+    transition: opacity 0.37s ease-in-out;
 }
 
 nav ul li a:hover {
-    background-color: var(--primaryBtn);
     border-radius: 2px;
     opacity: 1;
 }
