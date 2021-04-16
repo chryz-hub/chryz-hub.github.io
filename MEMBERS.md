@@ -22,6 +22,7 @@
  - [Mercy Harbo](https://github.com/mercyharbo)
  - [Mohammed Kabir Hussaini](https://github.com/lekandev)
  - [Naman Gupta](https://github.com/namangupta1399)
+ - [Sefat Siddiquea Sifa](https://github.com/sifa123)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
 
