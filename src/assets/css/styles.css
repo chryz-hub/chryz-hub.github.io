@@ -52,6 +52,10 @@ nav ul li a:hover {
     opacity: 1;
 }
 
+nav ul li a:active, nav ul li a:focus {
+    border-bottom: 2px solid var(--mainBackground);
+    opacity: 1;
+}
 
 /* Todo */
 /* 
