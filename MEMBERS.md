@@ -8,7 +8,8 @@
   ```- [Your name](https://github.com/username)```
   
   On a new line in an alphabetical order, add your name and the link to your Github profile
- _________________________________________________________________________________________
+
+---
   
   <!-- Starting -->
  - [Alaba Olanrewaju](https://github.com/chryzcodez)
