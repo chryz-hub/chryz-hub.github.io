@@ -92,3 +92,10 @@ input:focus,
 textarea:focus {
   outline: none;
 }
+
+/* Social icons */
+.social img {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
