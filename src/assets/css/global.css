@@ -98,4 +98,16 @@ textarea:focus {
   display: inline-block;
   width: 20px;
   height: 20px;
+  
+.text-primary {
+  font-size: 1.3rem;
+  padding-bottom: 8px;
+}
+
+.text-secondary {
+  font-size: 0.97rem;
+  font-weight: 300;
+  margin: 0 15px;
+  line-height: 1.7;
+  padding-bottom: 15px;
 }
