@@ -6,7 +6,7 @@
     padding: 20px;
     width: 100%;
     height: 80px;
-    position: fixed;
+    position: sticky;
     top: 0;
     background-color: var(--footerDarkBg);
     color: #fff;
