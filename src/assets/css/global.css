@@ -30,8 +30,6 @@ body {
   --spotColor: #099cb0;
   --footerDarkBg: #222222;
 
-  /* text sizes */
-
   /* button styles */
   --br: 5px;
   --brBig: 60px;
@@ -98,6 +96,7 @@ textarea:focus {
   display: inline-block;
   width: 20px;
   height: 20px;
+} 
   
 .text-primary {
   font-size: 1.3rem;
