@@ -1,6 +1,6 @@
 # Chryz-hub Community Website
 
-![avatar](https://avatars.githubusercontent.com/u/78741698?s=200&v=4)
+<p align="center"><img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" /></p>
 
 Welcome to **The World of Open Source**, where your ideas and contributions count and are highly appreciated.
 
