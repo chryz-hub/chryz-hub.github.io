@@ -110,3 +110,14 @@ textarea:focus {
   line-height: 1.7;
   padding-bottom: 15px;
 }
+
+.btn {
+  display: inline-block;
+  padding: 15px 20px;
+  font-size: 0.97rem;
+  cursor: pointer;
+  border: none;
+  transition: background 0.4s ease-in-out;
+  background-color: var(--darkBackground);
+  color: #fff;
+}
