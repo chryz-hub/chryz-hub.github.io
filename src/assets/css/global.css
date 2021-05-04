@@ -96,8 +96,8 @@ textarea:focus {
   display: inline-block;
   width: 20px;
   height: 20px;
-} 
-  
+}
+
 .text-primary {
   font-size: 1.3rem;
   padding-bottom: 8px;
@@ -120,4 +120,11 @@ textarea:focus {
   transition: background 0.4s ease-in-out;
   background-color: var(--darkBackground);
   color: #fff;
+}
+
+.btn-primary {
+  background-color: var(--primaryBtn);
+  color: #fff;
+  padding: 18px 30px;
+  border-radius: 5px;
 }
