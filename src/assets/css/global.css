@@ -128,3 +128,12 @@ textarea:focus {
   padding: 18px 30px;
   border-radius: 5px;
 }
+
+.btn-rounded {
+  border-radius: 60px;
+}
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
