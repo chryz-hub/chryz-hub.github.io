@@ -1,8 +1,8 @@
 # Chryz-hub Community Website
 
-![avatar](https://avatars.githubusercontent.com/u/78741698?s=200&v=4)
+<p align="center"><img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" /></p>
 
-Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
+Welcome to **The World of Open Source**, where your ideas and contributions count and are highly appreciated.
 
 ## Project Brief
 
@@ -12,7 +12,7 @@ To contribute to the community website project, open the `src` directory which c
 
 ## Getting Started 
 
-> If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [opensource-4-everyone repository.](https://github.com/chryz-hub/opensource-4-everyone#simple-guide-to-making-a-pull-request-or-contribution) This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your hands dirty, you're ready to come back and dive into Community Website Project.
+> If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [opensource-4-everyone repository](https://github.com/chryz-hub/opensource-4-everyone#simple-guide-to-making-a-pull-request-or-contribution). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your hands dirty, you're ready to come back and dive into Community Website Project.
 
 1. First up you need to fork (make a copy) of this repo to your Github account.
 
