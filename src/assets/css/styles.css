@@ -59,7 +59,7 @@ nav ul li a:active, nav ul li a:focus {
 
 /* Hero Section*/
 #hero {
-    /* height: 100vh; */
+    height: 100vh;
 }
 
 .content {
@@ -68,9 +68,9 @@ nav ul li a:active, nav ul li a:focus {
     align-items: center;
     justify-content: center;
     text-align: center;
-    /* height: 30%; */
+    height: 30%;
     padding: 0 20px 10px;
-    margin: 4rem 0;
+    /* margin: 4rem 0; */
 }
 
 .content .social a {

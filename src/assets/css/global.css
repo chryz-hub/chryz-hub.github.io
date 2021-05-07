@@ -129,11 +129,18 @@ textarea:focus {
   border-radius: 5px;
 }
 
+.btn-secondary{
+  background-color: var(--secondaryBtn);
+  color: #fff;
+  padding: 18px 30px;
+  border-radius: 5px;
+}
+
 .btn-rounded {
   border-radius: 60px;
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 1200px;
   margin: 0 auto;
 }
