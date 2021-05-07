@@ -70,8 +70,17 @@ nav ul li a:active, nav ul li a:focus {
     text-align: center;
     height: 30%;
     padding: 0 20px 10px;
+    /* margin: 4rem 0; */
 }
 
 .content .social a {
     margin: 0 20px;
+}
+
+/* Vision Section */
+#vision .content {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 3px 3px 6px 3px var(--shadow);
+    padding: 1.5rem 9rem 3rem;
 }
