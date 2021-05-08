@@ -52,7 +52,8 @@ nav ul li a:hover {
     opacity: 1;
 }
 
-nav ul li a:active, nav ul li a:focus {
+nav ul li a:active,
+nav ul li a:focus {
     border-bottom: 2px solid var(--mainBackground);
     opacity: 1;
 }
@@ -70,7 +71,6 @@ nav ul li a:active, nav ul li a:focus {
     text-align: center;
     height: 30%;
     padding: 0 20px 10px;
-    /* margin: 4rem 0; */
 }
 
 .content .social a {
@@ -78,9 +78,16 @@ nav ul li a:active, nav ul li a:focus {
 }
 
 /* Vision Section */
-#vision .content {
+#vision .vision-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
     background-color: #fff;
     border-radius: 12px;
     box-shadow: 3px 3px 6px 3px var(--shadow);
-    padding: 1.5rem 9rem 3rem;
 }
