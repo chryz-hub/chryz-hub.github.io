@@ -94,3 +94,13 @@ nav ul li a:focus {
     border-radius: 12px;
     box-shadow: 4px 4px 4px 3px var(--shadow);
 }
+
+/* Button  */
+.but-section {
+    display: flex;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
