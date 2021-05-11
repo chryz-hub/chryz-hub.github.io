@@ -19,7 +19,7 @@
  - [Damilare Oyedeji](https://github.com/fuglydami)
  - [Franklin Ohaegbulam](https://github.com/frankiefab100)
  - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
- - [Ibrahim Olayinka](https://github.com/IbrahomOlayinks)
+ - [Ibrahim Olayinka](https://github.com/IbrahomOlayinka)
  - [Jome Favourite](https://github.com/jomefavourite)
  - [Mercy Harbo](https://github.com/mercyharbo)
  - [Mohammed Kabir Hussaini](https://github.com/lekandev)
