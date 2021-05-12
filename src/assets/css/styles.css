@@ -140,7 +140,7 @@ nav ul li a:focus {
         position: absolute;
         right: 0;
         height: 100vh;
-        top: 13vh;
+        top: 8vh;
         background-color: var(--footerDarkBg);
         display: flex;
         flex-direction: column;
@@ -148,12 +148,23 @@ nav ul li a:focus {
         width: 100%;
         transform: translate(100%);
         transition: transform 0.5s ease-in;
-        z-index: 2;
+        z-index: -1;
     }
 
     .burger {
         display: block;
         margin-right: 16rem;
+    }
+}
+
+@media screen and (max-width: 767px) and (max-width: 667px) {
+    .nav-list {
+        top: 9vh;
+    }
+
+    .burger {
+        display: block;
+        margin-right: 13rem;
     }
 }
 
