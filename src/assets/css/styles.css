@@ -95,6 +95,15 @@ nav ul li a:focus {
     box-shadow: 4px 4px 4px 3px var(--shadow);
 }
 
+/* Button  */
+.buttons {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.buttons a {
+    margin: 10px 40px;
+
 .vsion-content a {
     transition: all 0.5s ease-in-out;
 }
