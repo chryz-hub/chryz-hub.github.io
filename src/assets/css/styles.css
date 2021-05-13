@@ -103,8 +103,9 @@ nav ul li a:focus {
 
 .buttons a {
     margin: 10px 40px;
+}
 
-.vsion-content a {
+.vision-content a {
     transition: all 0.5s ease-in-out;
 }
 
