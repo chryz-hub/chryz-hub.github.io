@@ -94,3 +94,16 @@ nav ul li a:focus {
     border-radius: 12px;
     box-shadow: 4px 4px 4px 3px var(--shadow);
 }
+
+.vsion-content a {
+    transition: all 0.5s ease-in-out;
+}
+
+.vision-content a span {
+    padding-left: 1.5px;
+    transition: all 0.4s ease-in-out;
+}
+
+.vision-content a:hover span {
+    transform: rotate(90deg);
+}
