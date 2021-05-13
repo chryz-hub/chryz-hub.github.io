@@ -96,11 +96,11 @@ nav ul li a:focus {
 }
 
 /* Button  */
-.but-section {
-    display: flex;
-    height: 20vh;
-    align-items: center;
-    justify-content: center;
-    justify-content: space-evenly;
+.buttons {
+    margin-top: 60px;
     text-align: center;
+}
+
+.buttons a {
+    margin: 10px 40px;
 }

@@ -26,6 +26,7 @@
  - [Sefat Siddiquea Sifa](https://github.com/sifa123)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
+ - [Quincy Oghenetejiri](https://github.com/Te-Stack)
 
 
   <!-- end -->

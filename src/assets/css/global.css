@@ -126,9 +126,7 @@ textarea:focus {
   background-color: var(--primaryBtn);
   color: #fff;
   padding: 18px 30px;
-  border: 1px solid var(--primaryBtn);
   border-radius: 5px;
-  cursor: pointer;
 }
 
 .btn-secondary{
@@ -137,7 +135,6 @@ textarea:focus {
   padding: 18px 30px;
   border: 1px solid var(--secondaryBtn);
   border-radius: 5px;
-  cursor: pointer;
 }
 
 .btn-rounded {
