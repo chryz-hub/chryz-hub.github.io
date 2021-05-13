@@ -154,12 +154,15 @@ nav ul li a:focus {
         display: block;
         margin-right: 16rem;
     }
+
+    .nav-list li {
+        opacity: 0;
+    }
 }
 
 @media screen and (max-width: 767px) and (max-width: 667px) {
     .nav-list {
         top: 9vh;
-        transition: transform 0.5s ease-in;
     }
 
     .burger {
@@ -170,7 +173,7 @@ nav ul li a:focus {
 
 /* Hamburger Menu Logic from Javascript */
 .active {
-    transform: translateX(0);
+    transform: translateX(0%);
 }
 
 .toggle .line-one { 
@@ -183,4 +186,16 @@ nav ul li a:focus {
 
 .toggle .line-three {
         transform: rotate(45deg) translate(-5px,-5px);
+}
+
+@keyframes navLinkFade {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
 }
