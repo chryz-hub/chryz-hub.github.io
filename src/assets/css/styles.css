@@ -147,7 +147,6 @@ nav ul li a:focus {
         align-items: center;
         width: 100%;
         transform: translate(100%);
-        transition: transform 0.5s ease-in;
         z-index: -1;
     }
 
@@ -160,6 +159,7 @@ nav ul li a:focus {
 @media screen and (max-width: 767px) and (max-width: 667px) {
     .nav-list {
         top: 9vh;
+        transition: transform 0.5s ease-in;
     }
 
     .burger {
