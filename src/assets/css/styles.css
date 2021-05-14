@@ -198,7 +198,8 @@ nav ul li a:focus {
         opacity: 1;
         transform: translateX(0px);
     }
-  
+}
+
 /* Navbar */
 .navbar {
     display: flex;
