@@ -133,6 +133,7 @@ textarea:focus {
   background-color: var(--secondaryBtn);
   color: #fff;
   padding: 18px 30px;
+  border: 1px solid var(--secondaryBtn);
   border-radius: 5px;
 }
 
