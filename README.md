@@ -2,57 +2,59 @@
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" /></p>
 
-Welcome to **The World of Open Source**, where your ideas and contributions count and are highly appreciated.
+### Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
-## Project Brief
+### [Here's Our Vision for the Community](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md)
 
-To ease the process of the community website project, a [mockup](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22) has been designed. Please, follow the design while contributing to the project.
+<!-- ## Table of Projects
 
-To contribute to the community website project, open the `src` directory which contains all the assets you'll need. Also, the `index.html` file is in the root directory and not in the `src` directory, take note.
+- Projects name [repository list](https://github.com/chryz-hub) -->
 
-## Getting Started 
+## Contributing
 
-> If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [opensource-4-everyone repository](https://github.com/chryz-hub/opensource-4-everyone#simple-guide-to-making-a-pull-request-or-contribution). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your hands dirty, you're ready to come back and dive into Community Website Project.
+Pull requests and Issues are highly welcomed. If you'll like to create an [issue click here](https://github.com/chryzcodez/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
 
-1. First up you need to fork (make a copy) of this repo to your Github account.
+Please while creating an issue, do ensure to check if such issue has been created already to avoid duplicates.
 
-1. Clone (download) your fork to your computer
+### Here's a preview of the community website
 
-1. Set your streams so you can sync your clone with the original repo (get the latest updates)
+![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)
 
-   - `git remote add upstream https://github.com/chryz-hub/chryz-hub.github.io.git`
-   - `git pull upstream master`
-   - The above 2 commands will synchronize your forked version of the project with the actual repository.
+[View the complete markup here](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22)
 
-1. Find a task/issue [here](https://github.com/chryz-hub/chryz-hub.github.io/issues) or [create a task](https://github.com/chryz-hub/chryz-hub.github.io/issues/new/choose)
 
-   - Comment on the task to claim it, ensuring no body has done so already. Saying, I like to work on this task/issue.
+**Note:**
 
-   - If you created a new task or issue, ensure you specify if you are undertaking the task or if someone else is able to claim it.
+- To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
-   - Keep the issue updated with your progress, inactive issues will be reassigned.
+- To make your first pull request [click here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
 
-1. Create a branch for your task and complete the task
+<!-- ## My Latest Blog Posts 👇 -->
 
-   - `git checkout -b <your branch name>`
+<!-- HASHNODE_BLOG:START -->
 
-1. Pull from the upstream again, like we did in step 3. This is to insure we still have the latest code.
+## Meet the Team
 
-   - `git pull upstream master`
+<!-- CHRYZ-HUB-TEAM-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/chryzcodez"><img src="https://avatars.githubusercontent.com/u/77321169?s=460&u=8d89312a1109aac0294da55965e5d8cd39032d11&v=4" width="100px;" alt=""/><br /><sub><b>Alaba Olanrewaju</b></sub></a><br /><a href="https://github.com/chryz-hub/chryz-hub.github.io/commits?author=chryzcodez" title="Documentation">📖</a></a> <a href="https://github.com/chryz-hub/chryz-hub.github.io#eventOrganizing-chryzcodez" title="Event Organizing">📋</a> <a href="https://github.com/chryz-hub/chryz-hub.github.io#ideas-chryzcodez" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/chryz-hub/chryz-hub.github.io#projectManagement-chryzcodez" title="Project Management">📆</a> <a href="https://github.com/chryz-hub/opensource-4-everyone/pulls?q=is%3Apr+reviewed-by%3Achryzcodez" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/chryz-hub/chryz-hub.github.io#talk-chryzcodez" title="Talks">📢</a></td>
+     <td align="center"><a href="https://github.com/Ukpebor"><img src="https://avatars.githubusercontent.com/u/65134147?s=400&u=6137c3f5e28a0460fd0698dde77d50693b4bcdc2&v=4" width="100px;" alt=""/><br /><sub><b>Ukpebor Nicholas Osakpolor</b></sub></a><br /></td>
+   </tr>
+</table>
 
-1. Commit and push the code to your fork
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
-   - `git add .`
-   - `git commit -m "I've fixed this issue #issue_number"`
-   - `git push <your branch name>`
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-1. Create a pull request to have the changes merged into the origin
+## Meet our Members!
 
-   - Ensure you add to the comments of the pull request fixes #<issue number>, replacing with the number of you issue will automatically close the issue when the pull request is merged.
+- 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
-___Thanks for Contributing to the Chryz-hub Community Website___
-
-### Find us on
+## Find us on
 
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
