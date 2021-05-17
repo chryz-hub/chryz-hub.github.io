@@ -1,0 +1,20 @@
+name: 'Welcome New Contributors'
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome-new-contributor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Welcome to ChryzHub 
+        uses: garg3133/welcome-new-contributors@v1.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: '<h1>It''s great having you contribute to this community</h1><strong>Thanks for raising an <strong><em>Issue!</em></strong><p>If you are willing to join the community, kindly connect via <ul><li><a href="https://discord.gg/c6RhGwcP5b">Discord</a></li><li><a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ">Youtube</a></li><li><a href="https://twitter.com/ChryzHub">Twitter</a></li><li>GitHub organization page by raising an <a href="https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization">invitational issue</a></li></ul> You can make this <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md">pratice pull request</a> and you can also add your name been a contributor/member of the community <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md">here.</a></p>'
+          pr-message: '<h1>It''s great having you contribute to this community</h1><strong>Thanks for making a <strong><em>Pull Request!</em></strong><p>If you are willing to join the community, kindly connect via <ul><li><a href="https://discord.gg/c6RhGwcP5b">Discord</a></li><li><a href="https://www.youtube.com/channel/UCEoxZzYHN1c9ISazmxeCtCQ">Youtube</a></li><li><a href="https://twitter.com/ChryzHub">Twitter</a></li><li>GitHub organization page by raising an <a href="https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization">invitational issue</a></li></ul> You can make this <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md">pratice pull request</a> and you can also add your name been a contributor/member of the community <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md">here.</a></p>'
+
+              
