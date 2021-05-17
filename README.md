@@ -23,6 +23,11 @@ Please while creating an issue, do ensure to check if such issue has been create
 [View the complete markup here](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22)
 
 
+If you would like to contribute to the development of the website. It is advisable you check the [website 
+contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/oldreadme.md) 
+
+
+
 **Note:**
 
 - To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
