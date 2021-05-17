@@ -10,7 +10,7 @@ jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Welcome to ChryzHub'
+      - name: 'Welcome message 
         uses: garg3133/welcome-new-contributors@v1.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
