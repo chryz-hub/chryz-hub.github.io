@@ -12,7 +12,7 @@
 
 ## Contributing
 
-Pull requests and Issues are highly welcomed. If you'll like to create an [issue click here](https://github.com/chryzcodez/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
+Pull requests and Issues are highly welcomed. If you'll like to create an [issue click here](https://github.com/chryz-hub/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
 
 Please while creating an issue, do ensure to check if such issue has been created already to avoid duplicates.
 
