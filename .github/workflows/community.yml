@@ -8,7 +8,6 @@ jobs:
   welcome:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
       - uses: actions/first-interaction@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
