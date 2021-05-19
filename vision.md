@@ -1,7 +1,7 @@
 # The Chryz-Hub Vision
 ![chryz-hub avatar](https://avatars.githubusercontent.com/u/78741698?s=200&v=4)
 
-<h3>Our vision is to add value, solve problems, render help and support to developers, open source contributors and everyone at large and also raise and build Open Source Giants.</h3>
+<h3>Our vision is to add value, solve problems, render help and support to developers, open-source contributors and everyone at large and also build open source enthusiast.</h3>
 <h4>This is a community where your ideas really count and your contributions are greatly appreciated!</h4>
 
 ## How do we aim to get this done?
