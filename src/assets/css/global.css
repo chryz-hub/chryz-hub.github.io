@@ -129,7 +129,7 @@ textarea:focus {
   border-radius: 5px;
 }
 
-.btn-secondary{
+.btn-secondary {
   background-color: var(--secondaryBtn);
   color: #fff;
   padding: 18px 30px;

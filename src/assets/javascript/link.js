@@ -16,7 +16,7 @@ export default class Link {
     // Open the url in a new tab or in
     // the current tab ba
     openLinkUrl = () => {
-        if(this.tab){
+        if (this.tab) {
             window.open(this.link)
         } else {
             window.location.href = this.link

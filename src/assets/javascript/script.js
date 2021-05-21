@@ -13,7 +13,7 @@ const navToggle = () => {
 
         // Animate Links
         navLinks.forEach((link, index) => {
-            if(link.style.animation) {
+            if (link.style.animation) {
                 link.style.animation = '';
             } else {
                 link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7 + 0.2}s`;
@@ -26,7 +26,7 @@ const links = () => {
     const anchor = document.querySelectorAll('.link')
     anchor.forEach((anchorTag) => {
         const redirectTo = anchorTag.getAttribute('href')
-        if (redirectTo.length == 0 || redirectTo == '#'){
+        if (redirectTo.length == 0 || redirectTo == '#') {
             // Not Implemented
             // Nothing to do as the link redirects to the
             // same page

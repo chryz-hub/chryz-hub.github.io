@@ -10,7 +10,7 @@ To ease the process of the community website project, a [mockup](https://www.fig
 
 To contribute to the community website project, open the `src` directory which contains all the assets you'll need. Also, the `index.html` file is in the root directory and not in the `src` directory, take note.
 
-## Getting Started 
+## Getting Started
 
 > If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [opensource-4-everyone repository](https://github.com/chryz-hub/opensource-4-everyone#simple-guide-to-making-a-pull-request-or-contribution). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your hands dirty, you're ready to come back and dive into Community Website Project.
 
@@ -50,7 +50,7 @@ To contribute to the community website project, open the `src` directory which c
 
    - Ensure you add to the comments of the pull request fixes #<issue number>, replacing with the number of you issue will automatically close the issue when the pull request is merged.
 
-___Thanks for Contributing to the Chryz-hub Community Website___
+**_Thanks for Contributing to the Chryz-hub Community Website_**
 
 ### Find us on
 
