@@ -1,3 +1,5 @@
+import Link from './link.js'
+
 //Navbar toggle
 const navToggle = () => {
     const burger = document.querySelector('.burger');
@@ -20,4 +22,25 @@ const navToggle = () => {
     });
 }
 
+const links = () => {
+    const anchor = document.querySelectorAll('.link')
+    anchor.forEach((anchorTag) => {
+        const redirectTo = anchorTag.getAttribute('href')
+        if (redirectTo.length == 0 || redirectTo == '#'){
+            // Not Implemented
+            // Nothing to do as the link redirects to the
+            // same page
+        } else {
+            anchorTag.addEventListener('click', (event) => {
+                event.preventDefault()
+                const redirect = new Link(
+                    redirectTo,
+                    !redirectTo.startsWith('.')
+                )
+            })
+        }
+    })
+}
+
+links()
 navToggle();
