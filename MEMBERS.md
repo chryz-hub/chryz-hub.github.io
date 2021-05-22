@@ -12,6 +12,7 @@
 ---
   
   <!-- Starting -->
+ - [Akiode Timothy](https://github.com/Timbaron)
  - [Alaba Olanrewaju](https://github.com/chryzcodez)
  - [Amjad Noor](https://github.com/AmjadNoor)
  - [Anshul Mehta](https://github.com/Anshul7sp1)
