@@ -1,4 +1,4 @@
-# Our Contributors
+# The ChryzHub Members 
 
 <!-- Eligibility -->
 <!-- Been a member of the community -->
