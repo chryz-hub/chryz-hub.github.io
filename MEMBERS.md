@@ -27,6 +27,7 @@
  - [Naman Gupta](https://github.com/namangupta1399)
  - [Sefat Siddiquea Sifa](https://github.com/sifa123)
  - [Tanimowo Emmanuel](https://github.com/Mannuel25)
+ - [Tonatiuh Morales](https://github.com/blackc0mb)
  - [Ukpebor Nicholas](https://github.com/Ukpebor)
  - [Quincy Oghenetejiri](https://github.com/Te-Stack)
 
