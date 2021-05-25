@@ -319,3 +319,40 @@ nav ul li a:focus {
 .vision-content a:hover span {
     transform: rotate(90deg);
 }
+
+/* Projects */
+#projects {
+    height: 400px;
+}
+
+.projects {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.projects h2 {
+    text-align: center;
+    margin: 50px 0 20px;
+}
+
+.project {
+    padding: 40px;
+    background: #fff url(../images/under-construction.png) no-repeat center center/cover;
+}
+
+.project p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.project div {
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.project div span {
+    margin: 0 5px;
+    color: var(--secondaryBtn);
+}
