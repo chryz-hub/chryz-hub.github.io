@@ -145,3 +145,29 @@ textarea:focus {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+/* Flex Items */
+.flex-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-items a {
+  display: block;
+  margin: 0 20px;
+  transition: all 0.4s ease-in-out; 
+}
+
+.flex-items a:hover {
+  transform: translateY(-10px);
+  box-shadow: 2px 2px 5px rgba(9, 156, 176, 0.5);
+  border-radius: 11px;
+}
+
+.item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px var(--shadow);
+}
+
