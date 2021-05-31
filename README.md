@@ -24,7 +24,7 @@ Please while creating an issue, do ensure to check if such issue has been create
 
 
 If you would like to contribute to the development of the website. It is advisable you check the [website 
-contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/oldreadme.md) 
+contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/website_readme.md) 
 
 
 
