@@ -30,15 +30,12 @@ navToggle();
 var githubprojectsdomelement = document.getElementById('githubprojects');
 
 let githubprojects = [
-    {
-        name: 'chryz-hub/chryz-hub.github.io',
-      },  {
-        name: 'chryz-hub/opensource-4-everyone',
-      },  {
-        name: 'chryz-hub/top-languages-cheat',
-      },  {
-        name: 'chryz-hub/web-dev-resources',
-      },
+  {
+    name: 'chryz-hub/chryz-hub.github.io',
+  },
+  {
+    name: 'chryz-hub/chryz-hub.github.io',
+  },
   // Here can be added some more projets if needed
 ];
 
@@ -62,7 +59,7 @@ function createprojectcard(project) {
   project.description = project.description.replace(/:[^}]*:/, '');
 
   // TODO: add Project Card
-  let projectcard = `<a href="#">
+  let projectcard = `<a href="${project.html_url}">
     <div class="item project">
       <h4 class="text-secondary">${project.name}</h4>
       <p>${project.description}</p>
