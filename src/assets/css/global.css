@@ -129,7 +129,7 @@ textarea:focus {
   border-radius: 5px;
 }
 
-.btn-secondary{
+.btn-secondary {
   background-color: var(--secondaryBtn);
   color: #fff;
   padding: 18px 30px;
@@ -156,7 +156,7 @@ textarea:focus {
 .flex-items a {
   display: block;
   margin: 0 20px;
-  transition: all 0.4s ease-in-out; 
+  transition: all 0.4s ease-in-out;
 }
 
 .flex-items a:hover {
@@ -170,4 +170,3 @@ textarea:focus {
   border-radius: 10px;
   box-shadow: 3px 5px 5px var(--shadow);
 }
-
