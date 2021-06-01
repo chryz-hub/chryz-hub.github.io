@@ -76,7 +76,7 @@ nav ul li a:focus {
 
 /* Hero Section*/
 #hero {
-    min-height: 100vh;
+    height: 100vh;
 }
 
 .content {

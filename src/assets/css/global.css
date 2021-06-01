@@ -151,14 +151,12 @@ textarea:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
 }
 
 .flex-items a {
   display: block;
-  margin: 20px;
+  margin: 0 20px;
   transition: all 0.4s ease-in-out; 
-  width: 350px;
 }
 
 .flex-items a:hover {
