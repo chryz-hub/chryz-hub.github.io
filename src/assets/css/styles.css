@@ -10,6 +10,7 @@
     top: 0;
     background-color: var(--footerDarkBg);
     color: #fff;
+    z-index: 9;
 }
 
 /* Logo */
