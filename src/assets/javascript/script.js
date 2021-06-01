@@ -30,42 +30,47 @@ navToggle();
 var githubprojectsdomelement = document.getElementById('githubprojects');
 
 let githubprojects = [
-  {
-    name: 'chryz-hub/chryz-hub.github.io',
-    icon: 'description',
-  },
+    {
+        name: 'chryz-hub/chryz-hub.github.io',
+      },  {
+        name: 'chryz-hub/opensource-4-everyone',
+      },  {
+        name: 'chryz-hub/top-languages-cheat',
+      },  {
+        name: 'chryz-hub/web-dev-resources',
+      },
   // Here can be added some more projets if needed
 ];
 
 githubprojects.forEach((project) => {
-  getproject(project.name, project.icon);
+  getproject(project.name);
 });
 
-function getproject(project, icon) {
+function getproject(project) {
   fetch(`https://api.github.com/repos/${project}`)
     .then((response) => {
       return response.json();
     })
     .then((project) => {
       // we add the project card directly to the html dom
-      githubprojectsdomelement.innerHTML += createprojectcard(project, icon);
+      githubprojectsdomelement.innerHTML += createprojectcard(project);
     });
 }
 
-function createprojectcard(project, icon) {
+function createprojectcard(project) {
   // removing github emojis cause they are not usable in html
   project.description = project.description.replace(/:[^}]*:/, '');
 
   // TODO: add Project Card
   let projectcard = `<a href="#">
     <div class="item project">
-      <h4 class="text-secondary">Chryz-Hub Website</h4>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
-        sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+      <h4 class="text-secondary">${project.name}</h4>
+      <p>${project.description}</p>
       <div>
-        <span class="fab fa-html5"></span>
+      <!-- TODO add icons -->
+       <!-- <span class="fab fa-html5"></span>
         <span class="fab fa-css3-alt"></span>
-        <span class="fab fa-js"></span>
+        <span class="fab fa-js"></span> -->
       </div>
     </div>
   </a>`;
