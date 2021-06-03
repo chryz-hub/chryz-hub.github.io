@@ -1,0 +1,277 @@
+/* Navbar */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  top: 0;
+  background-color: var(--footerDarkBg);
+  color: #fff;
+  z-index: 9;
+}
+
+/* Logo */
+.navbar .logo {
+  order: 2;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  margin-right: 20px;
+  transition: border 0.5s ease-in-out;
+}
+
+.navbar .logo:hover {
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+
+.navbar .logo img {
+  width: 50px;
+  padding: 10px;
+}
+
+/* Nav buttons */
+nav {
+  order: 1;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li a {
+  padding: 15px 10px;
+  margin: 38px;
+  color: #fff;
+  opacity: 0.6;
+  transition: opacity 0.37s ease-in-out;
+}
+
+nav ul li a:hover {
+  border-radius: 2px;
+  opacity: 1;
+}
+
+nav ul li a:active,
+nav ul li a:focus {
+  border-bottom: 2px solid var(--mainBackground);
+  opacity: 1;
+}
+
+/* Hamburger Menu */
+.burger {
+  display: none;
+  cursor: pointer;
+}
+
+.burger div {
+  width: 25px;
+  height: 2px;
+  background-color: #e4e4e4;
+  margin: 5px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+/* Hero Section*/
+#hero {
+  height: 100vh;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  padding: 110px 20px 30px;
+}
+
+.content .social a {
+  margin: 0 20px;
+}
+
+#vision {
+  margin: 0 20px;
+}
+
+/* Vision Section */
+#vision .vision-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 4px 4px 4px 3px var(--shadow);
+}
+
+/* Media Query For Mobile View */
+@media screen and (max-width: 867px) and (max-width: 767px) {
+  nav ul li {
+    padding: 46px 0;
+  }
+
+  nav ul li a {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  nav ul li a:active,
+  nav ul li a:focus {
+    border-bottom: 2px solid var(--spotColor);
+    opacity: 1;
+  }
+
+  .navbar {
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .nav-list {
+    position: absolute;
+    right: 0;
+    height: 100vh;
+    top: 8vh;
+    background-color: var(--footerDarkBg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    transform: translate(100%);
+    z-index: -1;
+  }
+
+  .burger {
+    display: block;
+    margin-right: 16rem;
+  }
+
+  .nav-list li {
+    opacity: 0;
+  }
+}
+
+@media screen and (max-width: 767px) and (max-width: 667px) {
+  .nav-list {
+    top: 9vh;
+  }
+
+  .burger {
+    display: block;
+    margin-right: 13rem;
+  }
+}
+
+/* Hamburger Menu Logic from Javascript */
+.active {
+  transform: translateX(0%);
+}
+
+.toggle .line-one {
+  transform: rotate(-45deg) translate(-5px, 5px);
+}
+
+.toggle .line-two {
+  opacity: 0;
+}
+
+.toggle .line-three {
+  transform: rotate(45deg) translate(-5px, -5px);
+}
+
+@keyframes navLinkFade {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+
+/* Button  */
+.buttons {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.buttons a {
+  margin: 10px 40px;
+}
+
+.vision-content a {
+  transition: all 0.5s ease-in-out;
+}
+
+.vision-content a span {
+  padding-left: 1.5px;
+  transition: all 0.4s ease-in-out;
+}
+
+.vision-content a:hover span {
+  transform: rotate(90deg);
+}
+
+/* Projects */
+#projects {
+  height: 400px;
+}
+
+.projects {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.projects h2 {
+  text-align: center;
+  margin: 50px 0 20px;
+}
+
+.project {
+  padding: 40px;
+  margin-bottom: 2rem;
+  background: #fff url(../images/under-construction.jpg) no-repeat center center/cover;
+}
+
+.project p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.project div {
+  margin-top: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.project div span {
+  margin: 0 5px;
+  color: var(--secondaryBtn);
+}
+
+.flex-col-2 {
+  width: 100%;
+  height: auto;
+  columns: 2;
+}
+
+@media (max-width: 768px) {
+  .flex-col-2 {
+    width: 100%;
+    height: auto;
+    columns: 1;
+  }
+}

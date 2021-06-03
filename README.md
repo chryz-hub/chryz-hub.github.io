@@ -1,24 +1,45 @@
-![](https://avatars.githubusercontent.com/u/78741698?s=200&v=4)
-# chryz-hub
-## Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
+# The Chryz-hub Community 
 
-<a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"><img width=20% src="https://thumbs.dreamstime.com/b/basic-rgb-148951998.jpg"></a>
-<h3><a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md">Our Vision</a></h3>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" /></p>
 
-## Table of Projects
-- Projects name [repository list](https://github.com/chryz-hub)
+### Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
+
+### [Here's Our Vision for the Community](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md)
+
+<!-- ## Table of Projects
+
+- Projects name [repository list](https://github.com/chryz-hub) -->
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an [issue](https://github.com/chryzcodez/chryz-hub.github.io/issues) first to discuss what you would like to change. Be sure to check the [contributing guide lines](CONTRIBUTING.md). After this, then you you can start making your changes and
-in order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request(contribution)/ issue!
 
-**Note_**
-* To be a member, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
+Pull requests and Issues are highly welcomed. If you'll like to create an [issue click here](https://github.com/chryz-hub/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
 
-* To make your first pull request or make out connections, make [this pull request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
+Please while creating an issue, do ensure to check if such issue has been created already to avoid duplicates.
 
+### Here's a preview of the community website
+
+![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)
+
+[View the complete markup here](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22)
+
+
+If you would like to contribute to the development of the website. It is advisable you check the [website 
+contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/website_readme.md) 
+
+
+
+**Note:**
+
+- To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
+
+- To make your first pull request [click here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
+
+<!-- ## My Latest Blog Posts 👇 -->
+
+<!-- HASHNODE_BLOG:START -->
 
 ## Meet the Team
+
 <!-- CHRYZ-HUB-TEAM-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -31,15 +52,18 @@ in order for us not to ignore your effort, please check well not to make a dupli
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Meet our Members!
+
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
 ## Find us on
+
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
-[![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub)](https://twitter.com/ChryzHub)
-  
-  
-
+<a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
+<a href="https://twitter.com/ChryzHub">
+<img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub">
+</a>
