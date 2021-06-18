@@ -155,7 +155,7 @@ textarea:focus {
 
 .flex-items a {
   display: block;
-  margin: 0 20px;
+  margin: 0 20px 2rem;
   transition: all 0.4s ease-in-out;
 }
 
