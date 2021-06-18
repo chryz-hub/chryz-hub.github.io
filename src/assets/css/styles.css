@@ -240,9 +240,11 @@ nav ul li a:focus {
 }
 
 .project {
+  height: 100%;
   padding: 40px;
-  margin-bottom: 2rem;
   background: #fff url(../images/under-construction.jpg) no-repeat center center/cover;
+  background-size: cover;
+  background-position: left;
 }
 
 .project p {
@@ -262,10 +264,18 @@ nav ul li a:focus {
   color: var(--secondaryBtn);
 }
 
-.flex-col-2 {
+#githubprojects {
+  align-items: stretch;
+}
+
+#githubprojects a {
+  width: 33%;
+}
+
+.flex-col-3 {
   width: 100%;
   height: auto;
-  columns: 2;
+  columns: 3;
 }
 
 @media (max-width: 768px) {
