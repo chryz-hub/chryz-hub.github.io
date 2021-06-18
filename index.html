@@ -37,6 +37,8 @@
   <title>Chryz-hub Community</title>
 
   <!-- STYLES -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
   <link rel="stylesheet" href="./src/assets/css/global.css" />
   <link rel="stylesheet" href="./src/assets/css/styles.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
@@ -102,57 +104,78 @@
   </header>
   <main>
 
-  <!-- Projects -->
-  <section id="projects" class="projects">
-    <h2>Projects</h2>
+    <!-- Projects -->
+    <section id="projects" class="container mb-5">
+      <h2 class="text-center fw-bold mb-4 my-4">Projects</h2>
 
-    <div class="flex-items" id="githubprojects">
-      <!-- GitHub Projects from scripts.js goes here -->
-    </div>
+      <div class="projects">
+        <div class="row g-5" id="githubprojects">
+          <!-- GitHub Projects from scripts.js goes here -->
+        </div>
+        <div class="text-center mt-3">
+          <a href="#">View more</a>
+        </div>
+      </div>
 
-    <!-- Not needed if we go to api call in the js -->
-    <!-- <div class="flex-items">
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Chryz-Hub Website</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
-            sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
-          <div>
-            <span class="fab fa-html5"></span>
-            <span class="fab fa-css3-alt"></span>
-            <span class="fab fa-js"></span>
+      <!-- Not needed if we go to api call in the js -->
+      <!-- <div class="projects">
+        <div class="row g-5">
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/community-website.jpg" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/js-projects.PNG" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/py-projects.PNG" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
           </div>
         </div>
-      </a>
-
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Project X</h4>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsa corrupti, officia labore quibusdam
-            adipisci! Ducimus perspiciatis corrupti dolore accusamus?</p>
-          <div>
-            <span class="fab fa-python"></span>
-            <span class="fab fa-bootstrap"></span>
-            <span class="fab fa-js"></span>
-          </div>
-        </div>
-      </a>
-
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Project Y</h4>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsa corrupti, officia labore quibusdam
-            adipisci! Ducimus perspiciatis corrupti dolore accusamus?</p>
-          <div>
-            <span class="fab fa-react"></span>
-            <span class="fab fa-js"></span>
-          </div>
-        </div>
-      </a>
-    </div> -->
-  </section>
-  <!-- JAVASCRIPT -->
-  <script src="./src/assets/javascript/script.js"></script>
+      </div> -->
+    </section>
+    <!-- JAVASCRIPT -->
+    <script src="./src/assets/javascript/script.js"></script>
 </body>
 
 </html>

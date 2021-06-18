@@ -99,6 +99,7 @@ textarea:focus {
 }
 
 .text-primary {
+  color: inherit !important;
   font-size: 1.3rem;
   padding-bottom: 8px;
 }
