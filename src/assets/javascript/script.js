@@ -66,7 +66,7 @@ function createprojectcard(project, background) {
 
   // TODO: add Project Card
     let projectcard = `<div class="col-12 col-sm-6 col-lg-4">
-    <a href="#" class="project-box">
+    <a href="${project.html_url}" class="project-box">
       <div class="item project">
         <img src="./src/assets/images/projects/${background}" class="project-image" alt="">
         <div class="project-content">

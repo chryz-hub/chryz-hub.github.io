@@ -297,3 +297,11 @@ nav ul li a:focus {
     columns: 1;
   }
 }
+
+/* Video section */
+#video-section #channel-video {
+  display: block;
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
