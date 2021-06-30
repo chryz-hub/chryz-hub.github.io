@@ -305,3 +305,63 @@ nav ul li a:focus {
   height: 100%;
   margin: 0 auto;
 }
+
+/* Video section ends */
+
+/* Moderators section */
+#moderators {
+  background-color: var(--darkBackground);
+}
+
+#moderators .heading {
+  color: #F4F4F480;
+}
+
+.moderator {
+  height: 100%;
+}
+
+.moderator .moderator-img {
+  display: block;
+  border-radius: 100px;
+  float: left;
+  shape-outside: circle(50%);
+  width: 200px;
+  height: 200px;
+  margin-right: 2rem;
+}
+
+.moderator .moderator_name {
+  color: inherit;
+}
+
+/* .moderator .moderator_content {
+  list-style: disc;
+} */
+
+.moderator .moderator_details {
+  color: #f4f4f4;
+  line-height: 2rem;
+}
+
+.moderator .social-profiles > a:link {
+  display: inline-block;
+}
+
+.moderator .social-profiles i {
+  color: #f4f4f4;
+  font-size: 24px;
+}
+
+.moderator .social-profiles > *:not(:last-child) {
+  margin-right: 1.5rem;
+}
+
+/* Footer starts */
+.footer {
+  background-color: var(--footerDarkBg);
+}
+
+.footer .copyright-text {
+  color: var(--mainBackground);
+}
