@@ -65,16 +65,21 @@ function createprojectcard(project, background) {
   project.description = project.description.replace(/:[^}]*:/, '');
 
   // TODO: add Project Card
-
-  let projectcard = `<a href="${project.html_url}">
-    <div class="item project" style="background-image: url(https://raw.githubusercontent.com/chryz-hub/chryz-hub.github.io/master/src/assets/images/projects/${background})">
-      <h4 class="text-secondary">${project.name}</h4>
-      <p>${project.description}</p>
-      <div>
-        <span class="fab fa-react"></span>
-        <span class="fab fa-js"></span>
+    let projectcard = `<div class="col-12 col-sm-6 col-lg-4">
+    <a href="${project.html_url}" class="project-box">
+      <div class="item project">
+        <img src="./src/assets/images/projects/${background}" class="project-image" alt="">
+        <div class="project-content">
+          <h4 class="text-secondary">${project.name}</h4>
+          <p>${project.description}</p>
+          <div>
+            <span class="fab fa-html5"></span>
+            <span class="fab fa-css3-alt"></span>
+            <span class="fab fa-js"></span>
+          </div>
+        </div>
       </div>
-    </div>
-  </a>`;
+    </a>
+  </div>`
   return projectcard;
 }

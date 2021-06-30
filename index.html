@@ -37,6 +37,8 @@
   <title>Chryz-hub Community</title>
 
   <!-- STYLES -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
   <link rel="stylesheet" href="./src/assets/css/global.css" />
   <link rel="stylesheet" href="./src/assets/css/styles.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
@@ -60,7 +62,7 @@
           <li><a href="./index.html">Community</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="./index.html">Blog</a></li>
-          <li><a href="./index.html">Moderators</a></li>
+          <li><a href="#moderators">Moderators</a></li>
         </ul>
       </nav>
 
@@ -102,57 +104,210 @@
   </header>
   <main>
 
-  <!-- Projects -->
-  <section id="projects" class="projects">
-    <h2>Projects</h2>
+    <!-- Projects -->
+    <section id="projects" class="container mb-5">
+      <h2 class="text-center fw-bold mb-4 my-4">Projects</h2>
 
-    <div class="flex-items" id="githubprojects">
-      <!-- GitHub Projects from scripts.js goes here -->
-    </div>
+      <div class="projects">
+        <div class="row g-5" id="githubprojects">
+          <!-- GitHub Projects from scripts.js goes here -->
+        </div>
+        <div class="text-center mt-3">
+          <a href="#">View more</a>
+        </div>
+      </div>
 
-    <!-- Not needed if we go to api call in the js -->
-    <!-- <div class="flex-items">
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Chryz-Hub Website</h4>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
-            sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
-          <div>
-            <span class="fab fa-html5"></span>
-            <span class="fab fa-css3-alt"></span>
-            <span class="fab fa-js"></span>
+      <!-- Not needed if we go to api call in the js -->
+      <!-- <div class="projects">
+        <div class="row g-5">
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/community-website.jpg" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/js-projects.PNG" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-12 col-sm-6 col-lg-4">
+            <a href="#" class="project-box">
+              <div class="item project">
+                <img src="./src/assets/images/projects/py-projects.PNG" class="project-image" alt="">
+                <div class="project-content">
+                  <h4 class="text-secondary">Chryz-Hub Website</h4>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis quos consequatur atque perferendis
+                    sapiente consectetur iusto tempora temporibus, sequi maxime.</p>
+                  <div>
+                    <span class="fab fa-html5"></span>
+                    <span class="fab fa-css3-alt"></span>
+                    <span class="fab fa-js"></span>
+                  </div>
+                </div>
+              </div>
+            </a>
           </div>
         </div>
-      </a>
+      </div> -->
+    </section>
 
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Project X</h4>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsa corrupti, officia labore quibusdam
-            adipisci! Ducimus perspiciatis corrupti dolore accusamus?</p>
-          <div>
-            <span class="fab fa-python"></span>
-            <span class="fab fa-bootstrap"></span>
-            <span class="fab fa-js"></span>
+    <section id="video-section" class="py-5 my-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <iframe src="https://www.youtube.com/embed/91x7KJ1lMHw" id="channel-video" title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+          </div>
+          <div class="col-12 col-lg-6">
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, animi. Eligendi facere voluptatum
+              aliquam cumque in fugiat officiis asperiores culpa voluptates eaque. Dolorum animi doloribus, sequi,
+              voluptas obcaecati vel impedit iste beatae reiciendis dolorem a. Debitis dignissimos iure natus, libero
+              vel tempore. Possimus provident soluta dolorum explicabo voluptates ipsa molestiae, debitis minus! Eaque,
+              impedit beatae, laboriosam rerum voluptatum amet nemo perspiciatis distinctio numquam sit incidunt labore
+              rem dolor soluta molestias voluptatibus recusandae, doloremque aliquam porro nesciunt. Quam voluptatum
+              veritatis tempore dolor impedit ratione eos quibusdam odio asperiores error deserunt qui modi eligendi
+              dolores, placeat atque facere molestias deleniti, praesentium iure.
+            </p>
           </div>
         </div>
-      </a>
+      </div>
+    </section>
 
-      <a href="#">
-        <div class="item project">
-          <h4 class="text-secondary">Project Y</h4>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsa corrupti, officia labore quibusdam
-            adipisci! Ducimus perspiciatis corrupti dolore accusamus?</p>
-          <div>
-            <span class="fab fa-react"></span>
-            <span class="fab fa-js"></span>
+    <section id="moderators" class="py-4 mt-5">
+      <div class="container">
+        <h2 class="text-center fw-bold my-5 heading">Our Moderators</h2>
+        <div class="row g-5">
+          <div class="col-12 col-lg-6">
+            <div class="moderator">
+              <img src="./src/assets/images/moderator-sample.jpg" alt="moderator image" class="moderator-img">
+              <div class="moderator_details">
+                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
+                <p class="mb-0">Open-Source Enthusiast</p>
+                <ul class="moderator_content">
+                  <li>Developer</li>
+                  <li>Technical writer/blogger</li>
+                  <li>Aspiring Data scientist</li>
+                </ul>
+                <div class="social-profiles">
+                  <a href="#" class="github-profile">
+                    <i class="fab fa-github"></i>
+                  </a>
+                  <a href="#" class="website-link">
+                    <i class="fas fa-link"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            <div class="moderator">
+              <img src="./src/assets/images/moderator-sample.jpg" alt="moderator image" class="moderator-img">
+              <div class="moderator_details">
+                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
+                <p class="mb-0">Open-Source Enthusiast</p>
+                <ul class="moderator_content">
+                  <li>Developer</li>
+                  <li>Technical writer/blogger</li>
+                  <li>Aspiring Data scientist</li>
+                </ul>
+                <div class="social-profiles">
+                  <a href="#" class="github-profile">
+                    <i class="fab fa-github"></i>
+                  </a>
+                  <a href="#" class="website-link">
+                    <i class="fas fa-link"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            <div class="moderator">
+              <img src="./src/assets/images/moderator-sample.jpg" alt="moderator image" class="moderator-img">
+              <div class="moderator_details">
+                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
+                <p class="mb-0">Open-Source Enthusiast</p>
+                <ul class="moderator_content">
+                  <li>Developer</li>
+                  <li>Technical writer/blogger</li>
+                  <li>Aspiring Data scientist</li>
+                </ul>
+                <div class="social-profiles">
+                  <a href="#" class="github-profile">
+                    <i class="fab fa-github"></i>
+                  </a>
+                  <a href="#" class="website-link">
+                    <i class="fas fa-link"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            <div class="moderator">
+              <img src="./src/assets/images/moderator-sample.jpg" alt="moderator image" class="moderator-img">
+              <div class="moderator_details">
+                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
+                <p class="mb-0">Open-Source Enthusiast</p>
+                <ul class="moderator_content">
+                  <li>Developer</li>
+                  <li>Technical writer/blogger</li>
+                  <li>Aspiring Data scientist</li>
+                </ul>
+                <div class="social-profiles">
+                  <a href="#" class="github-profile">
+                    <i class="fab fa-github"></i>
+                  </a>
+                  <a href="#" class="website-link">
+                    <i class="fas fa-link"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </a>
-    </div> -->
-  </section>
-  <!-- JAVASCRIPT -->
-  <script src="./src/assets/javascript/script.js"></script>
+        <div class="text-center my-4">
+          <a href="#" class="text-white">View more</a>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <h4 class="copyright-text text-center py-5">
+          Copyright &copy; Chyrz-hub
+        </h4>
+      </div>
+    </footer>
+    <!-- JAVASCRIPT -->
+    <script src="./src/assets/javascript/script.js"></script>
 </body>
 
 </html>

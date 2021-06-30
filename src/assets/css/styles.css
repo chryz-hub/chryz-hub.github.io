@@ -49,6 +49,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
+  color: inherit;
   border-radius: 2px;
   opacity: 1;
 }
@@ -76,7 +77,7 @@ nav ul li a:focus {
 
 /* Hero Section*/
 #hero {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .content {
@@ -225,13 +226,17 @@ nav ul li a:focus {
 }
 
 /* Projects */
-#projects {
-  height: 400px;
+
+.projects .project-box{
+  display: block;
+  transition: all 0.4s ease-in-out;
+  height: 100%;
 }
 
-.projects {
-  margin: 0 auto;
-  max-width: 1200px;
+.projects .project-box:hover {
+  transform: translateY(-10px);
+  box-shadow: 2px 2px 5px rgba(9, 156, 176, 0.5);
+  border-radius: 11px;
 }
 
 .projects h2 {
@@ -241,10 +246,11 @@ nav ul li a:focus {
 
 .project {
   height: 100%;
-  padding: 40px;
-  background: #fff url(../images/under-construction.jpg) no-repeat center center/cover;
+  overflow: hidden;
+  /* padding: 40px; */
+  /* background: #fff url(../images/under-construction.jpg) no-repeat center center/cover;
   background-size: cover;
-  background-position: left;
+  background-position: center; */
 }
 
 .project p {
@@ -252,24 +258,30 @@ nav ul li a:focus {
   line-height: 1.6;
 }
 
-.project div {
+.project-content {
+  padding: .5rem 1rem;
+  background-color: #212529;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.project-image {
+  height: 200px;
+  width: 100%;
+}
+
+/* .project div {
   margin-top: 20px;
   display: flex;
   width: 100%;
   justify-content: flex-end;
-}
+} */
 
 .project div span {
   margin: 0 5px;
   color: var(--secondaryBtn);
-}
-
-#githubprojects {
-  align-items: stretch;
-}
-
-#githubprojects a {
-  width: 33%;
 }
 
 .flex-col-3 {
@@ -284,4 +296,72 @@ nav ul li a:focus {
     height: auto;
     columns: 1;
   }
+}
+
+/* Video section */
+#video-section #channel-video {
+  display: block;
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+/* Video section ends */
+
+/* Moderators section */
+#moderators {
+  background-color: var(--darkBackground);
+}
+
+#moderators .heading {
+  color: #F4F4F480;
+}
+
+.moderator {
+  height: 100%;
+}
+
+.moderator .moderator-img {
+  display: block;
+  border-radius: 100px;
+  float: left;
+  shape-outside: circle(50%);
+  width: 200px;
+  height: 200px;
+  margin-right: 2rem;
+}
+
+.moderator .moderator_name {
+  color: inherit;
+}
+
+/* .moderator .moderator_content {
+  list-style: disc;
+} */
+
+.moderator .moderator_details {
+  color: #f4f4f4;
+  line-height: 2rem;
+}
+
+.moderator .social-profiles > a:link {
+  display: inline-block;
+}
+
+.moderator .social-profiles i {
+  color: #f4f4f4;
+  font-size: 24px;
+}
+
+.moderator .social-profiles > *:not(:last-child) {
+  margin-right: 1.5rem;
+}
+
+/* Footer starts */
+.footer {
+  background-color: var(--footerDarkBg);
+}
+
+.footer .copyright-text {
+  color: var(--mainBackground);
 }
