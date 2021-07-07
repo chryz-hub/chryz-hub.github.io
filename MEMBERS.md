@@ -72,7 +72,7 @@
     </td>
      <td align="center">
       <a href="https://github.com/sifa123"><img src="https://avatars.githubusercontent.com/u/63462931?v=4" width="100px;" alt=""/>
-      <br/><sub><b>Shivam Dubey</b></sub></a><br/> 
+      <br/><sub><b>Sefat Siddiquea Sifa</b></sub></a><br/> 
     </td>
   </tr>
   <tr>
