@@ -99,6 +99,7 @@ textarea:focus {
 }
 
 .text-primary {
+  color: inherit !important;
   font-size: 1.3rem;
   padding-bottom: 8px;
 }
@@ -155,7 +156,7 @@ textarea:focus {
 
 .flex-items a {
   display: block;
-  margin: 0 20px;
+  margin: 0 20px 2rem;
   transition: all 0.4s ease-in-out;
 }
 

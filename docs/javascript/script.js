@@ -32,44 +32,54 @@ var githubprojectsdomelement = document.getElementById('githubprojects');
 let githubprojects = [
   {
     name: 'chryz-hub/chryz-hub.github.io',
+    background: 'community-website.jpg',
   },
   {
-    name: 'chryz-hub/chryz-hub.github.io',
+    name: 'chryz-hub/js-projects',
+    background: 'js-projects.PNG'
+  },
+  {
+    name: 'chryz-hub/py-projects',
+    background: 'py-projects.PNG'
   },
   // Here can be added some more projets if needed
 ];
 
 githubprojects.forEach((project) => {
-  getproject(project.name);
+  getproject(project);
 });
 
-function getproject(project) {
-  fetch(`https://api.github.com/repos/${project}`)
+function getproject({name, background}) {
+  fetch(`https://api.github.com/repos/${name}`)
     .then((response) => {
       return response.json();
     })
     .then((project) => {
       // we add the project card directly to the html dom
-      githubprojectsdomelement.innerHTML += createprojectcard(project);
+      githubprojectsdomelement.innerHTML += createprojectcard(project, background);
     });
 }
 
-function createprojectcard(project) {
+function createprojectcard(project, background) {
   // removing github emojis cause they are not usable in html
   project.description = project.description.replace(/:[^}]*:/, '');
 
   // TODO: add Project Card
-  let projectcard = `<a href="${project.html_url}">
-    <div class="item project">
-      <h4 class="text-secondary">${project.name}</h4>
-      <p>${project.description}</p>
-      <div>
-      <!-- TODO add icons -->
-       <!-- <span class="fab fa-html5"></span>
-        <span class="fab fa-css3-alt"></span>
-        <span class="fab fa-js"></span> -->
+    let projectcard = `<div class="col-12 col-sm-6 col-lg-4">
+    <a href="${project.html_url}" class="project-box">
+      <div class="item project">
+        <img src="/assets/projects/${background}" class="project-image" alt="${project.name}">
+        <div class="project-content">
+          <h4 class="text-secondary">${project.name}</h4>
+          <p>${project.description}</p>
+          <div>
+            <span class="fab fa-html5"></span>
+            <span class="fab fa-css3-alt"></span>
+            <span class="fab fa-js"></span>
+          </div>
+        </div>
       </div>
-    </div>
-  </a>`;
+    </a>
+  </div>`
   return projectcard;
 }
