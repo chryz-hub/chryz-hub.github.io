@@ -128,6 +128,13 @@ textarea:focus {
   color: #fff;
   padding: 18px 30px;
   border-radius: 5px;
+  border: 1px solid var(--primaryBtn);
+}
+
+.btn-primary:hover {
+   background: #fff;
+   border: 1px solid var(--primaryBtn);
+   color: var(--primaryBtn);
 }
 
 .btn-secondary {
@@ -136,6 +143,12 @@ textarea:focus {
   padding: 18px 30px;
   border: 1px solid var(--secondaryBtn);
   border-radius: 5px;
+}
+
+.btn-secondary:hover {
+   background: #fff;
+   color: var(--secondaryBtn);
+   border: 1px solid var(--secondaryBtn);
 }
 
 .btn-rounded {
