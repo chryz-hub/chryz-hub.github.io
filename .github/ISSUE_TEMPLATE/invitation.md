@@ -5,7 +5,7 @@ title: 'Please invite me to the GitHub Community Organization'
 labels: invite me to the organization
 ---
 
-Please invite me to the GitHub Community Organisation.
+Please invite me to the GitHub Community Organization.
 
 - #### Name:
 <!-- Enter your name-->
@@ -21,5 +21,5 @@ Please invite me to the GitHub Community Organisation.
 
 
 <!-- After raising this issue, wait a bit to get two different messages from the community bot.
-These messages would be a guide and also give you some neccesary instructions-->
+These messages would be a guide and also give you some necessary instructions-->
 
