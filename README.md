@@ -30,7 +30,7 @@ contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/mast
 
 **Note:**
 
-- To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
+- To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
 - To make your first pull request [click here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
 
@@ -66,4 +66,6 @@ contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/mast
 <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
 <a href="https://twitter.com/ChryzHub">
 <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub">
-</a>
+</a><br>
+<a href="https://www.linkedin.com/company/chryzhub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
