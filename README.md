@@ -66,4 +66,6 @@ contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/mast
 <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
 <a href="https://twitter.com/ChryzHub">
 <img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub">
-</a>
+</a><br>
+<a href="https://www.linkedin.com/company/chryzhub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
