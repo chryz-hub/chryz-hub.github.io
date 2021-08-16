@@ -310,55 +310,106 @@ nav ul li a:focus {
 
 /* Moderators section */
 #moderators {
-  background-color: var(--darkBackground);
+   padding: 2rem 1rem 1rem;
+   margin-top: 2rem;
+   background: var(--darkBackground);
+   color: #fff;
+   position: relative;
 }
 
-#moderators .heading {
-  color: #F4F4F480;
+#moderators .text-center {
+   font-weight: 700;
+   font-size: 1.5rem;
+   margin-bottom: 3rem;
+   color: grey;
 }
 
-.moderator {
-  height: 100%;
+#moderators .text-center a {
+   font-size: 1.2rem;
+   color: grey;
 }
 
-.moderator .moderator-img {
-  display: block;
-  border-radius: 100px;
-  float: left;
-  shape-outside: circle(50%);
-  width: 200px;
-  height: 200px;
-  margin-right: 2rem;
+#moderators .text-center a:hover {
+   text-decoration: underline;
 }
 
-.moderator .moderator_name {
-  color: inherit;
+.overlay {
+   position: absolute;
+   top: 140px;
+   left: 50%;
+   width: 1px;
+   height: 700px;
+   background: var(--heading);
 }
 
-/* .moderator .moderator_content {
-  list-style: disc;
-} */
-
-.moderator .moderator_details {
-  color: #f4f4f4;
-  line-height: 2rem;
+.user-profile {
+   padding: 1rem 0.5rem;
+   margin-left: 1rem; 
 }
 
-.moderator .social-profiles > a:link {
-  display: inline-block;
+.user-profile h3 {
+   margin-bottom: 0.2rem;
+   font-size: 1.3rem;
+   color: #fff;
+   font-weight: 600;
 }
 
-.moderator .social-profiles i {
-  color: #f4f4f4;
-  font-size: 24px;
+.user-profile p {
+   font-size: 0.9rem;
+   margin-bottom: 1rem;
 }
 
-.moderator .social-profiles > *:not(:last-child) {
-  margin-right: 1.5rem;
+.user-profile ul {
+   color: #c0baba;
+   margin: 1.2rem 0 0.5rem;
+}
+
+.user-profile li {
+   font-size: 0.8rem;
+}
+
+.social-profiles a {
+   color: #fff;
+   margin: 0 0.3rem;
+}
+
+.social-profiles a:hover {
+   color: grey;
+} 
+
+#moderators .box-container {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-gap: 3rem;
+   margin: 2rem;
+}
+
+/* Responsive Moderators */
+@media(max-width: 1000px) {
+   #moderators .container {
+      width: 100%;
+   }
+
+   #moderators .box-container {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      row-gap: 1rem;
+      column-gap: 0rem;
+      margin: 0rem;
+   }
+
+   #moderators .overlay {
+      display: none;
+   }
+
+   .user-profile h3 {
+      font-size: 1.08rem;
+   }
 }
 
 /* Footer starts */
 .footer {
+   display: flex;
   background-color: var(--footerDarkBg);
 }
 
