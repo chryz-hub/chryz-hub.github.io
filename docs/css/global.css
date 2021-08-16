@@ -66,6 +66,8 @@ h6 {
 }
 
 ul {
+   margin: 0;
+   padding: 0;
   list-style: none;
 }
 
@@ -75,7 +77,6 @@ a {
 }
 
 img {
-  max-width: 100%;
   display: block;
 }
 
@@ -153,6 +154,22 @@ textarea:focus {
 
 .btn-rounded {
   border-radius: 60px;
+}
+
+/* Card */
+.box {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+   padding: 1rem;
+}
+
+.box img {
+   width: 150px;
+   object-fit: cover;
+   object-position: center;
+   /* border-radius: 50%; */
 }
 
 .container {
