@@ -374,7 +374,7 @@ nav ul li a:focus {
 }
 
 .social-profiles a:hover {
-   color: var(--heading);
+   color: grey;
 } 
 
 #moderators .box-container {

@@ -166,10 +166,10 @@ textarea:focus {
 }
 
 .box img {
-   width: 150px;
+   width: 170px;
    object-fit: cover;
    object-position: center;
-   /* border-radius: 50%; */
+   border-radius: 50%;
 }
 
 .container {
