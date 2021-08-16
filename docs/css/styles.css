@@ -384,6 +384,29 @@ nav ul li a:focus {
    margin: 2rem;
 }
 
+/* Responsive Moderators */
+@media(max-width: 1000px) {
+   #moderators .container {
+      width: 100%;
+   }
+
+   #moderators .box-container {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      row-gap: 1rem;
+      column-gap: 0rem;
+      margin: 0rem;
+   }
+
+   #moderators .overlay {
+      display: none;
+   }
+
+   .user-profile h3 {
+      font-size: 1.08rem;
+   }
+}
+
 /* Footer starts */
 .footer {
    display: flex;

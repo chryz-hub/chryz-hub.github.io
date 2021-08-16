@@ -161,7 +161,6 @@ textarea:focus {
    display: flex;
    justify-content: center;
    align-items: center;
-   border-radius: 20px;
    padding: 1rem;
 }
 
@@ -200,4 +199,13 @@ textarea:focus {
   border: 1px solid #ddd;
   border-radius: 10px;
   box-shadow: 3px 5px 5px var(--shadow);
+}
+
+@media(max-width: 1000px) {
+   .box {
+      display: flex;
+      justify-content: space-around;
+      border-bottom: 1px solid var(--heading);
+      /* border-radius: 20px; */
+   }
 }
