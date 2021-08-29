@@ -58,5 +58,5 @@ ___Thanks for Contributing to the Chryz-hub Community Website___
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
 <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
 <a href="https://twitter.com/ChryzHub">
-<img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
