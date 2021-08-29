@@ -24,7 +24,7 @@
     content="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/public/myocatact1%20(1).svg" />
 
   <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="Welcome To The World of Open Source, We Appreciate Your Contribution and Ideas!" />
+  <meta name="twitter:box" content="Welcome To The World of Open Source, We Appreciate Your Contribution and Ideas!" />
   <meta name="twitter:title" content="chryz-hub" />
   <meta name="twitter:description"
     content="Welcome To The World of Open Source, We Appreciate Your Contribution and Ideas!" />
@@ -39,18 +39,18 @@
   <!-- STYLES -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-  <link rel="stylesheet" href="/css/global.css" />
-  <link rel="stylesheet" href="/css/styles.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
     integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
     crossorigin="anonymous" />
+    <link rel="stylesheet" href="./css/global.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
 </head>
 
 <body id="home">
   <header id="hero">
     <div class="navbar">
       <div></div>
-      <h1 class="logo"><a href="#home"><img src="/assets/chryz-hub-transparent.png" alt="Logo-image"></a>
+      <h1 class="logo"><a href="#home"><img src="./assets/chryz-hub-transparent.png" alt="Logo-image"></a>
       </h1>
       <nav>
         <div class="burger">
@@ -74,10 +74,10 @@
       <p class="text-secondary">The World of Open Source, Where Your Ideas and Contributions Count and are Highly
         Appreciated</p>
       <div class="social">
-        <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="/assets/youtube.png"
+        <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="./assets/youtube.png"
             alt="YouTube icon" /></a>
-        <a href="https://twitter.com/ChryzHub"><img src="/assets/twitter.png" alt="Twitter icon" /></a>
-        <a href="https://t.co/CxeDvbUiFB?amp=1"><img src="/assets/discord.png" alt="Discord icon"></a>
+        <a href="https://twitter.com/ChryzHub"><img src="./assets/twitter.png" alt="Twitter icon" /></a>
+        <a href="https://t.co/CxeDvbUiFB?amp=1"><img src="./assets/discord.png" alt="Discord icon"></a>
       </div>
     </div>
 
@@ -89,34 +89,33 @@
           <p class="text-secondary">Our vision is to add value, solve problems, render help and support to developers,
             open source contributors and everyone at large and also raise and build Open Source Giants.</p>
           <a href="https://github.com/chryz-hub/chryz-hub.github.io/blob/master/vision.md"
-            class="btn btn-primary btn-rounded" re="noopener" target="_blank">Read more</a>
+            class="btn btn-primary btn-rounded" rel="noopener" target="_blank">Read more</a>
         </div>
       </div>
     </section>
     <!-- Buttons  -->
     <div class="container buttons">
-      <a href="https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization"
-        rel="noopener" class=" btn btn-primary">Join the Community</a>
+      <a href="https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organization&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"
+        rel="noopener" class=" btn btn-primary" target="_blank"><i class="fas fa-plus"></i> Join the Community</i>
       <a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md"
         rel="noopener" class="btn btn-secondary" target="_blank"><i class="fas fa-code-branch"></i> Create Pull
         Request</a>
     </div>
   </header>
   <main>
+      <!-- Projects -->
+      <section id="projects" class="container mb-5">
+         <h2 class="text-center fw-bold mb-4 my-4">Projects</h2>
 
-    <!-- Projects -->
-    <section id="projects" class="container mb-5">
-      <h2 class="text-center fw-bold mb-4 my-4">Projects</h2>
-
-      <div class="projects">
-        <div class="row g-5" id="githubprojects">
-          <!-- GitHub Projects from scripts.js goes here -->
-        </div>
-        <div class="text-center mt-3">
-          <a href="#">View more</a>
-        </div>
-      </div>
-
+         <div class="projects">
+         <div class="row g-5" id="githubprojects">
+            <!-- GitHub Projects from scripts.js goes here -->
+         </div>
+         <div class="text-center mt-3">
+            <a href="#">View more</a>
+         </div>
+         </div>
+      </section>
       <!-- Not needed if we go to api call in the js -->
       <!-- <div class="projects">
         <div class="row g-5">
@@ -173,9 +172,8 @@
           </div>
         </div>
       </div> -->
-    </section>
 
-    <section id="video-section" class="py-5 my-5">
+      <section id="video-section" class="py-5 my-5">
       <div class="container">
         <div class="row">
           <div class="col-12 col-lg-6">
@@ -198,106 +196,130 @@
           </div>
         </div>
       </div>
-    </section>
+      </section>
 
-    <section id="moderators" class="py-4 mt-5">
-      <div class="container">
-        <h2 class="text-center fw-bold my-5 heading">Our Moderators</h2>
-        <div class="row g-5">
-          <div class="col-12 col-lg-6">
-            <div class="moderator">
-              <img src="/assets/moderator-sample.jpg" alt="moderator image" class="moderator-img">
-              <div class="moderator_details">
-                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
-                <p class="mb-0">Open-Source Enthusiast</p>
-                <ul class="moderator_content">
-                  <li>Developer</li>
-                  <li>Technical writer/blogger</li>
-                  <li>Aspiring Data scientist</li>
-                </ul>
-                <div class="social-profiles">
-                  <a href="#" class="github-profile">
-                    <i class="fab fa-github"></i>
-                  </a>
-                  <a href="#" class="website-link">
-                    <i class="fas fa-link"></i>
-                  </a>
-                </div>
-              </div>
+      <section id="moderators">
+         <div class="overlay"></div>
+         <div class="container">
+            <h2 class="text-center">Our Moderators</h2>
+            <div class="box-container">
+               <div class="box">
+                  <img src="./assets/Moderators/chryz.jpg" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Olanrewaju Alaba</h3>
+                     <p>Chryz-Hub Founder</p>
+                     <ul>
+                        <li>Fullstack Developer</li>
+                        <li>Technical writer/blogger</li>
+                        <li>Content Creator</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/chryzcodez" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i></a>
+                        <a href="https://linktr.ee/chryz_codez" class="website-link" rel="norefferer noopener"><i class="fas fa-link"></i></a> 
+                     </div>
+                  </div>
+               </div>
+   
+               <div class="box">
+                  <img src="./assets/Moderators/Naman.png" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Naman Gupta</h3>
+                     <p>Web Developer</p>
+                     <ul>
+                        <li>Computer Science</li>
+                        <li>Aspiring Data scientist</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/namangupta1399" class="github-profile"><i class="fab fa-github"></i></a>
+                        <a href="https://namangupta1399.github.io/" class="website-link" rel="norefferer noopener"><i class="fas fa-link"></i></a>
+                     </div>
+                  </div>
+               </div>
+   
+               <div class="box">
+                  <img src="./assets/Moderators/jome.jpg" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Favourite Jome</h3>
+                     <p>Frontend Developer</p>
+                     <ul>
+                        <li>Computer Science</li>
+                        <li>Technical writer/blogger</li>
+                        <li>Aspiring Fullstack Developer</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/jomefavourite" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i></a>
+                        <a href="https://jomefavourite.github.io/portfolio/" class="website-link" rel="norefferer noopener"><i class="fas fa-link"></i></a>
+                     </div>
+                  </div>
+               </div>
+   
+               <div class="box">
+                  <img src="./assets/Moderators/Eke.jpg" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Victor Eke</h3>
+                     <p>Frontend Developer</p>
+                     <ul>
+                        <li>Open Source Maintainer</li>
+                        <li>Technical writer/blogger</li>
+                        <li>Aspiring Fullstack Developer</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/Evavic44" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i></a>
+                        <a href="https://victoreke.netlify.app" class="website-link" rel="norefferer noopener"><i class="fas fa-link"></i></a>
+                     </div>
+                  </div>
+               </div>
+   
+               <div class="box">
+                  <img src="./assets/Moderators/schmelto.png" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Tom Schmelzer</h3>
+                     <p>Open-Source Maintainer</p>
+                     <ul>
+                        <li>Developer</li>
+                        <li>Technical writer/blogger</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/schmelto" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://schmelto.github.io/portfolio/" class="website-link" rel="norefferer noopener"><i class="fas fa-link"></i></a>
+                     </div>
+                  </div>
+               </div>
+   
+               <div class="box">
+                  <img src="./assets/Moderators/Nicholas.jpg" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Ukpebor Nicholas Osakpolor</h3>
+                     <p>Web Developer</p>
+                     <ul>
+                        <li>Open-Source</li>
+                        <li>Student</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/Ukpebor" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i></a>
+                     </div>
+                  </div>
+               </div>
+               
+               <!-- <div class="box">
+                  <img src="./assets/Moderators/Nicholas.jpg" alt="moderator image" class="moderator-img">
+                  <div class="user-profile">
+                     <h3>Ukpebor Nicholas Osakpolor</h3>
+                     <p>Web Developer</p>
+                     <ul>
+                        <li>Open-Source</li>
+                        <li>Student</li>
+                     </ul>
+                     <div class="social-profiles">
+                        <a href="https://github.com/Ukpebor" class="github-profile" rel="norefferer noopener"><i class="fab fa-github"></i></a>
+                     </div>
+                  </div>
+               </div> -->
             </div>
-          </div>
-          <div class="col-12 col-lg-6">
-            <div class="moderator">
-              <img src="/assets/moderator-sample.jpg" alt="moderator image" class="moderator-img">
-              <div class="moderator_details">
-                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
-                <p class="mb-0">Open-Source Enthusiast</p>
-                <ul class="moderator_content">
-                  <li>Developer</li>
-                  <li>Technical writer/blogger</li>
-                  <li>Aspiring Data scientist</li>
-                </ul>
-                <div class="social-profiles">
-                  <a href="#" class="github-profile">
-                    <i class="fab fa-github"></i>
-                  </a>
-                  <a href="#" class="website-link">
-                    <i class="fas fa-link"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-lg-6">
-            <div class="moderator">
-              <img src="/assets/moderator-sample.jpg" alt="moderator image" class="moderator-img">
-              <div class="moderator_details">
-                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
-                <p class="mb-0">Open-Source Enthusiast</p>
-                <ul class="moderator_content">
-                  <li>Developer</li>
-                  <li>Technical writer/blogger</li>
-                  <li>Aspiring Data scientist</li>
-                </ul>
-                <div class="social-profiles">
-                  <a href="#" class="github-profile">
-                    <i class="fab fa-github"></i>
-                  </a>
-                  <a href="#" class="website-link">
-                    <i class="fas fa-link"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-12 col-lg-6">
-            <div class="moderator">
-              <img src="/assets/moderator-sample.jpg" alt="moderator image" class="moderator-img">
-              <div class="moderator_details">
-                <h5 class="fw-bold moderator_name">Olanrewaju Alaba</h5>
-                <p class="mb-0">Open-Source Enthusiast</p>
-                <ul class="moderator_content">
-                  <li>Developer</li>
-                  <li>Technical writer/blogger</li>
-                  <li>Aspiring Data scientist</li>
-                </ul>
-                <div class="social-profiles">
-                  <a href="#" class="github-profile">
-                    <i class="fab fa-github"></i>
-                  </a>
-                  <a href="#" class="website-link">
-                    <i class="fas fa-link"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="text-center my-4">
-          <a href="#" class="text-white">View more</a>
-        </div>
-      </div>
-    </section>
+            <h2 class="text-center"><a href="#">View More</a></h2>
+         </div>
+      </section>
 
     <footer class="footer">
       <div class="container">
@@ -307,7 +329,7 @@
       </div>
     </footer>
     <!-- JAVASCRIPT -->
-    <script src="/javascript/script.js"></script>
+    <script src="./javascript/script.js"></script>
 </body>
 
 </html>

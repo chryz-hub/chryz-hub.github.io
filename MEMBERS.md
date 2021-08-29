@@ -72,13 +72,13 @@
     </td>
      <td align="center">
       <a href="https://github.com/sifa123"><img src="https://avatars.githubusercontent.com/u/63462931?v=4" width="100px;" alt=""/>
-      <br/><sub><b>Shivam Dubey</b></sub></a><br/> 
+      <br/><sub><b>Sefat Siddiquea Sifa</b></sub></a><br/> 
     </td>
   </tr>
   <tr>
      <td align="center">
       <a href="https://github.com/WebShivam"><img src="https://avatars.githubusercontent.com/u/64413107?v=4" width="100px;" alt=""/>
-      <br/><sub><b>ibrahim</b></sub></a><br/>
+      <br/><sub><b>Shivam Dubey</b></sub></a><br/>
     </td>
     <td align="center">
       <a href="https://github.com/Mannuel25"><img src="https://avatars.githubusercontent.com/u/68563757?v=4" width="100px;" alt=""/>

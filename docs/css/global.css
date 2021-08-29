@@ -66,6 +66,8 @@ h6 {
 }
 
 ul {
+   margin: 0;
+   padding: 0;
   list-style: none;
 }
 
@@ -75,7 +77,6 @@ a {
 }
 
 img {
-  max-width: 100%;
   display: block;
 }
 
@@ -128,6 +129,13 @@ textarea:focus {
   color: #fff;
   padding: 18px 30px;
   border-radius: 5px;
+  border: 1px solid var(--primaryBtn);
+}
+
+.btn-primary:hover {
+   background: #fff;
+   border: 1px solid var(--primaryBtn);
+   color: var(--primaryBtn);
 }
 
 .btn-secondary {
@@ -138,8 +146,29 @@ textarea:focus {
   border-radius: 5px;
 }
 
+.btn-secondary:hover {
+   background: #fff;
+   color: var(--secondaryBtn);
+   border: 1px solid var(--secondaryBtn);
+}
+
 .btn-rounded {
   border-radius: 60px;
+}
+
+/* Card */
+.box {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 1rem;
+}
+
+.box img {
+   width: 170px;
+   object-fit: cover;
+   object-position: center;
+   border-radius: 50%;
 }
 
 .container {
@@ -170,4 +199,13 @@ textarea:focus {
   border: 1px solid #ddd;
   border-radius: 10px;
   box-shadow: 3px 5px 5px var(--shadow);
+}
+
+@media(max-width: 1000px) {
+   .box {
+      display: flex;
+      justify-content: space-around;
+      border-bottom: 1px solid var(--heading);
+      /* border-radius: 20px; */
+   }
 }
