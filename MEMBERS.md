@@ -41,12 +41,16 @@
       <br/><sub><b>Damilare Oyedeji</b></sub></a><br/>
     </td>
     <td align="center">
+      <a href="https://github.com/FayasNoushad"><img src="https://github.com/FayasNoushad.png" width="100px;" alt=""/>
+      <br/><sub><b>Fayas Noushad</b></sub></a><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/frankiefab100"><img src="https://avatars.githubusercontent.com/u/46662771?v=4" width="100px;" alt=""/>
       <br/><sub><b>Franklin U.O. Ohaegbulam</b></sub></a><br/>
     </td>
-   </tr>
-   <tr>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/hackEibrahim"><img src="https://avatars.githubusercontent.com/u/76446816?v=4" width="100px;" alt=""/>
       <br/><sub><b>ibrahim</b></sub></a><br/>
     </td>
@@ -58,25 +62,25 @@
       <a href="https://github.com/jomefavourite"><img src="https://avatars.githubusercontent.com/u/54733225?v=4" width="100px;" alt=""/>
       <br/><sub><b>Favourite Jome:star:</b></sub></a><br/> 
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/mercyharbo"><img src="https://avatars.githubusercontent.com/u/64808015?v=4" width="100px;" alt=""/>
       <br/><sub><b>Code With Mercy</b></sub></a><br/> 
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/lekandev"><img src="https://avatars.githubusercontent.com/u/65419835?v=4" width="100px;" alt=""/>
       <br/><sub><b>Mohammed Kabir Hussaini</b></sub></a><br/> 
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/namangupta1399"><img src="https://avatars.githubusercontent.com/u/53571307?v=4" width="100px;" alt=""/>
       <br/><sub><b>Naman Gupta:star:</b></sub></a><br/> 
     </td>
-     <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/sifa123"><img src="https://avatars.githubusercontent.com/u/63462931?v=4" width="100px;" alt=""/>
       <br/><sub><b>Sefat Siddiquea Sifa</b></sub></a><br/> 
     </td>
-  </tr>
-  <tr>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/WebShivam"><img src="https://avatars.githubusercontent.com/u/64413107?v=4" width="100px;" alt=""/>
       <br/><sub><b>Shivam Dubey</b></sub></a><br/>
     </td>
@@ -88,11 +92,11 @@
       <a href="https://github.com/blackc0mb"><img src="https://avatars.githubusercontent.com/u/76012794?v=4" width="100px;" alt=""/>
       <br/><sub><b>Tonatiuh Morales</b></sub></a><br/> 
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/Ukpebor"><img src="https://avatars.githubusercontent.com/u/65134147?v=4" width="100px;" alt=""/>
       <br/><sub><b>Ukpebor Nicholas Osakpolor:star:</b></sub></a><br/> 
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://github.com/Te-Stack"><img src="https://avatars.githubusercontent.com/u/64927592?v=4" width="100px;" alt=""/>
       <br/><sub><b>Quincy Oghenetejiri</b></sub></a><br/> 
     </td>
