@@ -41,6 +41,10 @@
       <br/><sub><b>Damilare Oyedeji</b></sub></a><br/>
     </td>
     <td align="center">
+      <a href="https://github.com/FayasNoushad"><img src="https://github.com/FayasNoushad.png" width="100px;" alt=""/>
+      <br/><sub><b>Fayas Noushad</b></sub></a><br/>
+    </td>
+    <td align="center">
       <a href="https://github.com/frankiefab100"><img src="https://avatars.githubusercontent.com/u/46662771?v=4" width="100px;" alt=""/>
       <br/><sub><b>Franklin U.O. Ohaegbulam</b></sub></a><br/>
     </td>
