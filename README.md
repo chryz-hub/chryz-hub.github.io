@@ -22,7 +22,7 @@ Please while creating an issue, do ensure to check if such issue has been create
 
 ### Here's a preview of the community website
 
-![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)
+[![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)](https://chryz-hub.github.io/)
 
 [View the complete markup here](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22)
 
