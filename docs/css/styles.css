@@ -411,6 +411,7 @@ nav ul li a:focus {
 .footer {
    display: flex;
   background-color: var(--footerDarkBg);
+  height: 100px;
 }
 
 .footer .copyright-text {
