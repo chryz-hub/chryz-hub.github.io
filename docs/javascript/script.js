@@ -36,27 +36,27 @@ let githubprojects = [
   },
   {
     name: 'chryz-hub/js-projects',
-    // background: 'js-projects.PNG'
+    background: 'js-projects.jpg',
   },
   {
     name: 'chryz-hub/py-projects',
-    // background: 'py-projects.PNG'
+    background: 'py-projects.jpg',
   },
   {
     name: 'chryz-hub/Chryz-Hub-Blogs',
-    // background: 'py-projects.PNG'
+    background: 'chryzhubblog.jpg',
   },
   {
     name: 'chryz-hub/opensource-4-everyone',
-    // background: 'py-projects.PNG'
+    background: 'opensource.jpg',
   },
   {
     name: 'chryz-hub/web-dev-resources',
-    // background: 'py-projects.PNG'
+    background: 'webdevresources.jpg',
   },
   {
     name: 'chryz-hub/connect',
-    // background: 'py-projects.PNG'
+    background: 'connect.jpg'
   },
   // Here can be added some more projets if needed
 ];
