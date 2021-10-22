@@ -32,7 +32,7 @@ var githubprojectsdomelement = document.getElementById('githubprojects');
 let githubprojects = [
   {
     name: 'chryz-hub/chryz-hub.github.io',
-    // background: 'community-website.jpg',
+    background: 'chryzhub-website.jpg',
   },
   {
     name: 'chryz-hub/js-projects',
@@ -56,7 +56,7 @@ let githubprojects = [
   },
   {
     name: 'chryz-hub/connect',
-    background: 'connect.jpg'
+    background: 'connect.jpg',
   },
   // Here can be added some more projets if needed
 ];
