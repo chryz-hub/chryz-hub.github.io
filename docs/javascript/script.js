@@ -32,15 +32,31 @@ var githubprojectsdomelement = document.getElementById('githubprojects');
 let githubprojects = [
   {
     name: 'chryz-hub/chryz-hub.github.io',
-    background: 'community-website.jpg',
+    background: 'chryzhub-website.jpg',
   },
   {
     name: 'chryz-hub/js-projects',
-    background: 'js-projects.PNG'
+    background: 'js-projects.jpg',
   },
   {
     name: 'chryz-hub/py-projects',
-    background: 'py-projects.PNG'
+    background: 'py-projects.jpg',
+  },
+  {
+    name: 'chryz-hub/Chryz-Hub-Blogs',
+    background: 'chryzhubblog.jpg',
+  },
+  {
+    name: 'chryz-hub/opensource-4-everyone',
+    background: 'opensource.jpg',
+  },
+  {
+    name: 'chryz-hub/web-dev-resources',
+    background: 'webdevresources.jpg',
+  },
+  {
+    name: 'chryz-hub/connect',
+    background: 'connect.jpg',
   },
   // Here can be added some more projets if needed
 ];
@@ -72,11 +88,6 @@ function createprojectcard(project, background) {
         <div class="project-content">
           <h4 class="text-secondary">${project.name}</h4>
           <p>${project.description}</p>
-          <div>
-            <span class="fab fa-html5"></span>
-            <span class="fab fa-css3-alt"></span>
-            <span class="fab fa-js"></span>
-          </div>
         </div>
       </div>
     </a>

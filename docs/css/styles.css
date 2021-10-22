@@ -268,7 +268,7 @@ nav ul li a:focus {
 }
 
 .project-image {
-  height: 200px;
+  height: 250px;
   width: 100%;
 }
 
@@ -411,6 +411,7 @@ nav ul li a:focus {
 .footer {
    display: flex;
   background-color: var(--footerDarkBg);
+  height: 100px;
 }
 
 .footer .copyright-text {
