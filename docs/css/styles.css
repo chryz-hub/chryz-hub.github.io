@@ -416,3 +416,19 @@ nav ul li a:focus {
 .footer .copyright-text {
   color: var(--mainBackground);
 }
+
+.view_more, a:hover {
+  color: green;
+}
+
+.view_more, a {
+  color: green;
+}
+
+.view_more, .fa-angle-right {
+  padding-left: 10px;
+}
+
+.view_more {
+  cursor: pointer;
+}
