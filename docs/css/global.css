@@ -48,6 +48,9 @@ body {
   /* @media (min-width: 1024px) { ... } */
   --xl: 1280px;
   /* @media (min-width: 1280px) { ... } */
+
+  /* units */
+  --navbar-height: 80px;
 }
 
 body {
@@ -66,8 +69,8 @@ h6 {
 }
 
 ul {
-   margin: 0;
-   padding: 0;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
@@ -133,9 +136,9 @@ textarea:focus {
 }
 
 .btn-primary:hover {
-   background: #fff;
-   border: 1px solid var(--primaryBtn);
-   color: var(--primaryBtn);
+  background: #fff;
+  border: 1px solid var(--primaryBtn);
+  color: var(--primaryBtn);
 }
 
 .btn-secondary {
@@ -147,9 +150,9 @@ textarea:focus {
 }
 
 .btn-secondary:hover {
-   background: #fff;
-   color: var(--secondaryBtn);
-   border: 1px solid var(--secondaryBtn);
+  background: #fff;
+  color: var(--secondaryBtn);
+  border: 1px solid var(--secondaryBtn);
 }
 
 .btn-rounded {
@@ -158,17 +161,17 @@ textarea:focus {
 
 /* Card */
 .box {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
 }
 
 .box img {
-   width: 170px;
-   object-fit: cover;
-   object-position: center;
-   border-radius: 50%;
+  width: 170px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
 }
 
 .container {
@@ -201,11 +204,11 @@ textarea:focus {
   box-shadow: 3px 5px 5px var(--shadow);
 }
 
-@media(max-width: 1000px) {
-   .box {
-      display: flex;
-      justify-content: space-around;
-      border-bottom: 1px solid var(--heading);
-      /* border-radius: 20px; */
-   }
+@media (max-width: 1000px) {
+  .box {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid var(--heading);
+    /* border-radius: 20px; */
+  }
 }

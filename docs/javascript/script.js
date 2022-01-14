@@ -4,8 +4,9 @@ const navToggle = () => {
   const navList = document.querySelector('.nav-list');
   const navLinks = document.querySelectorAll('.nav-list li');
 
+  // Click function on burger menu
   burger.addEventListener('click', () => {
-    // Toggle Navbar
+    // Toggle Navbar and Burger
     navList.classList.toggle('active');
     burger.classList.toggle('toggle');
 
@@ -20,8 +21,18 @@ const navToggle = () => {
       }
     });
   });
-};
 
+  // Click function on nav links
+  navLinks.forEach((link) => {
+    link.addEventListener('click', () => {
+      navList.classList.remove('active');
+      burger.classList.remove('toggle');
+      navLinks.forEach((link) => {
+        link.style.animation = '';
+      });
+    });
+  });
+};
 navToggle();
 
 // GitHub Projects
@@ -65,14 +76,17 @@ githubprojects.forEach((project) => {
   getproject(project);
 });
 
-function getproject({name, background}) {
+function getproject({ name, background }) {
   fetch(`https://api.github.com/repos/${name}`)
     .then((response) => {
       return response.json();
     })
     .then((project) => {
       // we add the project card directly to the html dom
-      githubprojectsdomelement.innerHTML += createprojectcard(project, background);
+      githubprojectsdomelement.innerHTML += createprojectcard(
+        project,
+        background
+      );
     });
 }
 
@@ -81,7 +95,7 @@ function createprojectcard(project, background) {
   project.description = project.description.replace(/:[^}]*:/, '');
 
   // TODO: add Project Card
-    let projectcard = `<div class="col-12 col-sm-6 col-lg-4">
+  let projectcard = `<div class="col-12 col-sm-6 col-lg-4">
     <a href="${project.html_url}" class="project-box">
       <div class="item project">
         <img src="./assets/projects/${background}" class="project-image" alt="${project.name}">
@@ -91,6 +105,6 @@ function createprojectcard(project, background) {
         </div>
       </div>
     </a>
-  </div>`
+  </div>`;
   return projectcard;
 }
