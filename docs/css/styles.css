@@ -5,7 +5,7 @@
   justify-content: space-between;
   padding: 20px;
   width: 100%;
-  height: 80px;
+  height: var(--navbar-height);
   position: fixed;
   top: 0;
   background-color: var(--footerDarkBg);
@@ -115,7 +115,12 @@ nav ul li a:focus {
 /* Media Query For Mobile View */
 @media screen and (max-width: 867px) and (max-width: 767px) {
   nav ul li {
-    padding: 46px 0;
+    /*? 100% divided by the current number of nav links which is 4 so that each nav links have the same height on whatever the height of the screen with the minimum height being 50px */
+    height: calc(100% / 4);
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: inherit;
   }
 
   nav ul li a {
@@ -141,8 +146,9 @@ nav ul li a:focus {
   .nav-list {
     position: absolute;
     right: 0;
-    height: 100vh;
-    top: 8vh;
+    /*? the height of the nav list is 100% - the height of the nav bar, so whatever you set the navbar height variable to, it will automatically be calculated and the nav-list will not shift its position under the navbar. and the top position is also equal to the nav bar height. */
+    height: calc(100vh - var(--navbar-height));
+    top: var(--navbar-height);
     background-color: var(--footerDarkBg);
     display: flex;
     flex-direction: column;
@@ -163,10 +169,6 @@ nav ul li a:focus {
 }
 
 @media screen and (max-width: 767px) and (max-width: 667px) {
-  .nav-list {
-    top: 9vh;
-  }
-
   .burger {
     display: block;
     margin-right: 13rem;
@@ -227,7 +229,7 @@ nav ul li a:focus {
 
 /* Projects */
 
-.projects .project-box{
+.projects .project-box {
   display: block;
   transition: all 0.4s ease-in-out;
   height: 100%;
@@ -259,7 +261,7 @@ nav ul li a:focus {
 }
 
 .project-content {
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
   background-color: #212529;
   color: #fff;
   display: flex;
@@ -310,106 +312,106 @@ nav ul li a:focus {
 
 /* Moderators section */
 #moderators {
-   padding: 2rem 1rem 1rem;
-   margin-top: 2rem;
-   background: var(--darkBackground);
-   color: #fff;
-   position: relative;
+  padding: 2rem 1rem 1rem;
+  margin-top: 2rem;
+  background: var(--darkBackground);
+  color: #fff;
+  position: relative;
 }
 
 #moderators .text-center {
-   font-weight: 700;
-   font-size: 1.5rem;
-   margin-bottom: 3rem;
-   color: grey;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+  color: grey;
 }
 
 #moderators .text-center a {
-   font-size: 1.2rem;
-   color: grey;
+  font-size: 1.2rem;
+  color: grey;
 }
 
 #moderators .text-center a:hover {
-   text-decoration: underline;
+  text-decoration: underline;
 }
 
 .overlay {
-   position: absolute;
-   top: 140px;
-   left: 50%;
-   width: 1px;
-   height: 700px;
-   background: var(--heading);
+  position: absolute;
+  top: 140px;
+  left: 50%;
+  width: 1px;
+  height: 700px;
+  background: var(--heading);
 }
 
 .user-profile {
-   padding: 1rem 0.5rem;
-   margin-left: 1rem; 
+  padding: 1rem 0.5rem;
+  margin-left: 1rem;
 }
 
 .user-profile h3 {
-   margin-bottom: 0.2rem;
-   font-size: 1.3rem;
-   color: #fff;
-   font-weight: 600;
+  margin-bottom: 0.2rem;
+  font-size: 1.3rem;
+  color: #fff;
+  font-weight: 600;
 }
 
 .user-profile p {
-   font-size: 0.9rem;
-   margin-bottom: 1rem;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
 }
 
 .user-profile ul {
-   color: #c0baba;
-   margin: 1.2rem 0 0.5rem;
+  color: #c0baba;
+  margin: 1.2rem 0 0.5rem;
 }
 
 .user-profile li {
-   font-size: 0.8rem;
+  font-size: 0.8rem;
 }
 
 .social-profiles a {
-   color: #fff;
-   margin: 0 0.3rem;
+  color: #fff;
+  margin: 0 0.3rem;
 }
 
 .social-profiles a:hover {
-   color: grey;
-} 
+  color: grey;
+}
 
 #moderators .box-container {
-   display: grid;
-   grid-template-columns: repeat(2, 1fr);
-   grid-gap: 3rem;
-   margin: 2rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 3rem;
+  margin: 2rem;
 }
 
 /* Responsive Moderators */
-@media(max-width: 1000px) {
-   #moderators .container {
-      width: 100%;
-   }
+@media (max-width: 1000px) {
+  #moderators .container {
+    width: 100%;
+  }
 
-   #moderators .box-container {
-      display: grid;
-      grid-template-columns: repeat(1, 1fr);
-      row-gap: 1rem;
-      column-gap: 0rem;
-      margin: 0rem;
-   }
+  #moderators .box-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    row-gap: 1rem;
+    column-gap: 0rem;
+    margin: 0rem;
+  }
 
-   #moderators .overlay {
-      display: none;
-   }
+  #moderators .overlay {
+    display: none;
+  }
 
-   .user-profile h3 {
-      font-size: 1.08rem;
-   }
+  .user-profile h3 {
+    font-size: 1.08rem;
+  }
 }
 
 /* Footer starts */
 .footer {
-   display: flex;
+  display: flex;
   background-color: var(--footerDarkBg);
 }
 
