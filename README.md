@@ -64,23 +64,21 @@ contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/mast
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
 ## Find us on
-
+<p align = "left">
 <a href="https://discord.gg/c6RhGwcP5b">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<br/>
 <a href="https://github.com/chryz-hub">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px">
 </a>
-<br/>
 <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-<br/>
 <a href="https://twitter.com/ChryzHub">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
-</a><br>
+</a>
 <a href="https://www.linkedin.com/company/chryzhub/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</p>
 
