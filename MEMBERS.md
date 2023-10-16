@@ -100,5 +100,10 @@
       <a href="https://github.com/Te-Stack"><img src="https://avatars.githubusercontent.com/u/64927592?v=4" width="100px;" alt=""/>
       <br/><sub><b>Quincy Oghenetejiri</b></sub></a><br/> 
     </td>
+<td align="center">
+      <a href="https://github.com/OgliariNatan"><img src="https://avatars.githubusercontent.com/u/17915303?s=96&v=4" width="100px;" alt=""/>
+      <br/><sub><b>Natan Ogliari</b></sub></a><br/> 
+    </td>
+       
   </tr>
 </table>
